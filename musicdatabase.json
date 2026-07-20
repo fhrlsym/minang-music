@@ -556,6 +556,12 @@
       { "AssetId": 106225543486602, "Name": "One piece remix aloy x ybrap" },
       { "AssetId": 114081647404850, "Name": "JOANAA" }
     ]
-  }
+  },
+    "ANJAY": {
+    "Cover": "rbxassetid://82071825011989",
+    "Songs": [
+      { "AssetId": 95730804141221, "Name": "Feast. - Tarot" },
+    ]
+  },
 }
 
