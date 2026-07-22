@@ -1,6 +1,6 @@
 {
   "HIPHOP": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://116552467897057",
     "Songs": [
       { "AssetId": 98323120010385, "Name": "Maroon 5 - Memories", "PlaybackSpeed": 0.39 },
       { "AssetId": 90212638491527, "Name": "Maroon 5 - Girls Like You", "PlaybackSpeed": 0.39 },
@@ -38,7 +38,7 @@
     ]
   },
   "MASHUP": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://123908333917467",
     "Songs": [
       { "AssetId": 113410757600322, "Name": "We Found Love + On The Floor + Stereo Love + Calabria", "PlaybackSpeed": 0.37 },
       { "AssetId": 134270919066425, "Name": "Waka Waka + La La La+ Colors + Tukoh Taka", "PlaybackSpeed": 0.37 },
@@ -72,7 +72,7 @@
     ]
   },
   "BKB": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://115098938752072",
     "Songs": [
       { "AssetId": 128997556282846, "Name": "BKB JANGAN CALL" },
       { "AssetId": 123108843613736, "Name": "BKB SELAMAT MALAM" },
@@ -120,8 +120,8 @@
       { "AssetId": 121537888724332, "Name": "DJ DICINTOI TAK DIHARAGOI" }
     ]
   },
-  "EMD": {
-    "Cover": "rbxassetid://82071825011989",
+  "EDM": {
+    "Cover": "rbxassetid://96034477299746",
     "Songs": [
       { "AssetId": 71154353570837, "Name": "EDM CRAYON VOL 1 [1]", "PlaybackSpeed": 0.5 },
       { "AssetId": 72184919414144, "Name": "EDM CRAYON VOL 1 [2]", "PlaybackSpeed": 0.5 },
@@ -159,7 +159,7 @@
     ]
   },
   "IndoBounce": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://109372716028097",
     "Songs": [
       { "AssetId": 76299293609712, "Name": "MBECAK JAYY MIX 1", "PlaybackSpeed": 0.5 },
       { "AssetId": 124868375892342, "Name": "MBECAK JAYY MIX 2", "PlaybackSpeed": 0.5 },
@@ -180,14 +180,14 @@
     ]
   },
   "MiamiBass": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://88648823405180",
     "Songs": [
       { "AssetId": 123015065757725, "Name": "MIAMIBASS 2", "PlaybackSpeed": 0.5 },
       { "AssetId": 101561429010611, "Name": "MIAMIBASS 3", "PlaybackSpeed": 0.5 }
     ]
   },
   "Amapiano": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://92282779677677",
     "Songs": [
       { "AssetId": 128371240734061, "Name": "AMAPIANO MIX 1", "PlaybackSpeed": 0.5 },
       { "AssetId": 125862255385783, "Name": "AMAPIANO MIXTAPE 1", "PlaybackSpeed": 0.5 },
@@ -197,7 +197,7 @@
     ]
   },
   "RNB": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://84244934212070",
     "Songs": [
       { "AssetId": 88644202852095, "Name": "The Weeknd - Timeless (Clean)", "PlaybackSpeed": 0.43 },
       { "AssetId": 125349969373279, "Name": "YungBleu - Ice On My Baby (CLEAN)", "PlaybackSpeed": 0.43 },
