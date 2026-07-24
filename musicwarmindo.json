@@ -186,11 +186,10 @@
       { "AssetId": 101561429010611, "Name": "MIAMIBASS 3", "PlaybackSpeed": 0.5 }
     ]
   },
-    },
   "REMIX": {
     "Cover": "rbxassetid://92282779677677",
     "Songs": [
-      { "AssetId": 126843952702136, "Name": "Bounce & Pa BKB", "PlaybackSpeed": 0.4 },
+      { "AssetId": 126843952702136, "Name": "Bounce & Pa BKB", "PlaybackSpeed": 0.4 }
     ]
   },
   "Amapiano": {
@@ -210,7 +209,7 @@
       { "AssetId": 125349969373279, "Name": "YungBleu - Ice On My Baby (CLEAN)", "PlaybackSpeed": 0.43 },
       { "AssetId": 119824575226779, "Name": "SZA - Kill Bill", "PlaybackSpeed": 0.43 },
       { "AssetId": 105593654394338, "Name": "Ariana Grande - Dangerous Woman", "PlaybackSpeed": 0.43 },
-      { "AssetId": 116468583608779, "Name": "Justin Bieber - Intentions", "PlaybackSpeed": 0.4 },
+      { "AssetId": 116468583608779, "Name": "Justin Bieber - Intentions", "PlaybackSpeed": 0.44 },
       { "AssetId": 79689660415005, "Name": "Ariana Grande - Side To Side", "PlaybackSpeed": 0.4 },
       { "AssetId": 139546533192824, "Name": " Justine Skye - Collide ft. Tyga", "PlaybackSpeed": 0.44 },
       { "AssetId": 78881464921649, "Name": "Chase Atlantic - HEAVEN AND BACK", "PlaybackSpeed": 0.4 },
@@ -279,7 +278,6 @@
       { "AssetId": 136914374898434, "Name": "RNB MIX 3", "PlaybackSpeed": 0.5 },
       { "AssetId": 106527368194907, "Name": "RNB MIX 4", "PlaybackSpeed": 0.5 },
       { "AssetId": 104219021780172, "Name": "RNB MIX 5", "PlaybackSpeed": 0.5 },
-      { "AssetId": 130671143331038, "Name": "RNB 2000S 1", "PlaybackSpeed": 0.5 },
       { "AssetId": 130671143331038, "Name": "RNB 2000S 1", "PlaybackSpeed": 0.5 },
       { "AssetId": 96376122040105, "Name": "RNB 2000S 2", "PlaybackSpeed": 0.5 }
     ]
