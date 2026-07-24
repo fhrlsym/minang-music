@@ -3,6 +3,10 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
       { "AssetId": 128997556282846, "Name": "BKB JANGAN CALL" },
+      { "AssetId": 73160630950812, "Name": "BERONDONG TUA BREAKBEAT", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 71424449131588, "Name": "DALINDA STADIUM BREAKBEAT", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 112047503343869, "Name": "SESI POTRET BREAKBEAT", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 98780465818781, "Name": "HABIH TIADO BASISO BREAKBEAT", "PlaybackSpeed": 0.4 },
       { "AssetId": 123108843613736, "Name": "BKB SELAMAT MALAM" },
       { "AssetId": 75677072060380, "Name": "BKB MOUWI" },
       { "AssetId": 128684507463282, "Name": "BKB TAKAN SIA KAN DIA" },
@@ -167,7 +171,11 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
       { "AssetId": 100912101292537, "Name": "Dj Damonok sayang sayang den du" },
+      { "AssetId": 81227677030375, "Name": "DJ DAMONOK DENAI URANG KA TIGO ", "PlaybackSpeed": 0.4348 },
       { "AssetId": 135951509784157, "Name": "DJ MUTIARA - IPANK" },
+      { "AssetId": 77764950519902, "Name": "CINTO JAN DIBALI - RIA AMELIA (MINANG DJ) EDM", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 117040613568019, "Name": "DJ NYAO PULANG KA BADAN - Minang_DJ", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 99282743525601, "Name": "DJ MAULANG SAYANG - RAYOLA", "PlaybackSpeed": 0.4348 },
       { "AssetId": 123998858354756, "Name": "SALAH APA ( IPANK ) FULL BASS" },
       { "AssetId": 124333784903265, "Name": "Onde Uda Sayang Remix" },
       { "AssetId": 76613237727812, "Name": "Dj Salahmu Sendiri cut rani" },
