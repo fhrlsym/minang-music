@@ -153,6 +153,16 @@
       { "AssetId": 122466358308774, "Name": "ubur ubur" }
     ]
   },
+    "FUNGKOT": {
+    "Cover": "rbxassetid://82071825011989",
+    "Songs": [
+      { "AssetId": 100742391806003, "Name": "FUNKOT - [ CURI CURI PANDANG ]", "PlaybackSpeed": 0.5 },
+      { "AssetId": 99504551821028, "Name": "FUNKOT MUTIARA - IPANK FULL BASS VIRAL TIKTOK", "PlaybackSpeed": 0.4 },
+      { "AssetId": 82717921633638, "Name": "FUNKOT - PICA PICA [ JUAN REZA ] LAGU AMBON", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 70802842190922, "Name": "FUNKOT - PICA - PICA 2", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 110630757707578, "Name": "FUNKOT - CIINAN BANA NEW 2026 BY DJ ALMIRA BERTO", "PlaybackSpeed": 0.4 }
+    ]
+  },
   "Minang": {
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
@@ -212,6 +222,7 @@
       { "AssetId": 106144162673478, "Name": "DJ naruto" },
       { "AssetId": 106225543486602, "Name": "One piece remix aloy x ybrap" },
       { "AssetId": 81358501710750, "Name": "OBH COMBI SACHET UHUK UHUK", "PlaybackSpeed": 0.4 },
+      { "AssetId": 139499731462125, "Name": "BOUNCE & PA BKB", "PlaybackSpeed": 0.5 },
       { "AssetId": 114081647404850, "Name": "JOANAA" },
       { "AssetId": 134634059308022, "Name": "Lamine Yamal ● Y QUE FUE", "PlaybackSpeed": 0.4 }
     ]
