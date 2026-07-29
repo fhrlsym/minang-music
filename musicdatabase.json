@@ -56,6 +56,8 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
       { "AssetId": 118734091206199, "Name": "Bercanda - Silet Open Up, SonaOne " },
+      { "AssetId": 96132848541870, "Name": "HOMPIMPA - Dante Nababan ", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 120637386612645, "Name": "CHESYLINO' - BADUT", "PlaybackSpeed": 0.4348 },
       { "AssetId": 133116278499026, "Name": "Omcon SB - Canda Nyaman " },
       { "AssetId": 97953487576447, "Name": "Omcon SB - Barisan Mantan" },
       { "AssetId": 126542716730318, "Name": "TRAUMA" },
