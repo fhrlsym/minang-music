@@ -56,6 +56,7 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
     { "AssetId": 129308287507967, "Name": "Wita Sofi Ft Jacson Zeran - Angin Malam" },
+    { "AssetId": 98035553263590, "Name": "Minang Timur - Atta Music", "PlaybackSpeed": 0.4348 },
     { "AssetId": 138304500504217, "Name": "NURMALA REMIX" },
     { "AssetId": 118725430576330, "Name": "Wita Sofi Ft Juan Reza - Nyong Dari Timur" },
     { "AssetId": 122198489118865, "Name": "Dendang minang" }
@@ -196,6 +197,9 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
       { "AssetId": 100912101292537, "Name": "Dj Damonok sayang sayang den du" },
+      { "AssetId": 97719239916717, "Name": "Wita Sofi - Pandang Partamo", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 122335156536440, "Name": "Diva Aurel - Aia Bangih" , "PlaybackSpeed": 0.4348 },
+      { "AssetId": 96725101490870, "Name": "Wita Sofi - Bukik Bunian" , "PlaybackSpeed": 0.4348 },
       { "AssetId": 81227677030375, "Name": "DJ DAMONOK DENAI URANG KA TIGO ", "PlaybackSpeed": 0.4348 },
       { "AssetId": 135951509784157, "Name": "DJ MUTIARA - IPANK" },
       { "AssetId": 77764950519902, "Name": "CINTO JAN DIBALI - RIA AMELIA (MINANG DJ) EDM", "PlaybackSpeed": 0.4348 },
