@@ -66,6 +66,7 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
       { "AssetId": 118734091206199, "Name": "Bercanda - Silet Open Up, SonaOne " },
+      { "AssetId": 118612780081407, "Name": "DJ BETA GAYA GAYA ", "PlaybackSpeed": 0.4348 },
       { "AssetId": 88832653357251, "Name": "JUBI RAP - SATU JAYAPURA ", "PlaybackSpeed": 0.4 },
       { "AssetId": 71848288411682, "Name": "Reza Artamevia - Berharap Tak Berpisah ", "PlaybackSpeed": 0.4348 },
       { "AssetId": 77510252943847, "Name": "NANTIKAN BETA MALUKU _ PARTY SENTAK _ DJ PAPA REMIX TERBARU 2025 ", "PlaybackSpeed": 0.4348 },
@@ -197,8 +198,10 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
       { "AssetId": 100912101292537, "Name": "Dj Damonok sayang sayang den du" },
+      { "AssetId": 118776875568891, "Name": "Ginyang Mak Taci" ", "PlaybackSpeed": 0.4348 },
       { "AssetId": 123168780768219, "Name": "SAYANG CIEK DA ", "PlaybackSpeed": 0.4348 },
       { "AssetId": 115372114888670, "Name": "DI GINYANG BANA", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 84388149783017, "Name": "DJoget minang muaro cinto ", "PlaybackSpeed": 0.4348 },
       { "AssetId": 131762496125079, "Name": "DJ Minang Ampek Kurang Tigo Balabiah", "PlaybackSpeed": 0.4348 },
       { "AssetId": 96148143302357, "Name": "Sopir Oto", "PlaybackSpeed": 0.4348 },
       { "AssetId": 103734183510237, "Name": "Buset - Bato Prent", "PlaybackSpeed": 0.4348 },
