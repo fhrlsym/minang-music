@@ -197,6 +197,9 @@
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
       { "AssetId": 100912101292537, "Name": "Dj Damonok sayang sayang den du" },
+      { "AssetId": 115372114888670, "Name": "DI GINYANG BANA", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 74591593474390, "Name": "ULAH BABURU ~ FERA IMOET & CABIAK", "PlaybackSpeed": 0.4348 },
+      { "AssetId": 124712421915100, "Name": "DJ BACAMIN DIRI", "PlaybackSpeed": 0.4348 },
       { "AssetId": 97719239916717, "Name": "Wita Sofi - Pandang Partamo", "PlaybackSpeed": 0.4348 },
       { "AssetId": 122335156536440, "Name": "Diva Aurel - Aia Bangih" , "PlaybackSpeed": 0.4348 },
       { "AssetId": 96725101490870, "Name": "Wita Sofi - Bukik Bunian" , "PlaybackSpeed": 0.4348 },
