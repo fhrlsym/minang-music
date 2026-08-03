@@ -27,8 +27,8 @@
       { "AssetId": 134887245394636, "Name": "NU Breakbeat - Wijaya Kusuma" },
       { "AssetId": 97455316054900, "Name": "SESI POTRET" },
       { "AssetId": 103061498676266, "Name": "THE ONE THAT GOT AWAY STADIUM BREAKBEAT" },
-      { "AssetId": 127057979193160, "Name": "boom Pa", "PlaybackSpeed": "0.8" },
-      { "AssetId": 87160931014357, "Name": "Redfoo - New Thang" },
+      { "AssetId": 127057979193160, "Name": "boom Pa", "PlaybackSpeed": "0.81" },
+      { "AssetId": 74764116488631, "Name": "Redfoo - New Thang" , "PlaybackSpeed": "0.81" },
       { "AssetId": 121537888724332, "Name": "DJ DICINTOI TAK DIHARAGOI" }
     ]
   },
