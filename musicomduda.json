@@ -1,1 +1,85 @@
+{
+  "HIPHOP": {
+    "Cover": "rbxassetid://116552467897057",
+    "Songs": [
+      { "AssetId": 98323120010385, "Name": "Maroon 5 - Memories", "PlaybackSpeed": 0.39 },
+      { "AssetId": 129392829154098, "Name": "HAPPY - PHARRELL WILLIAMS", "PlaybackSpeed": 0.4 }
+    ]
+  },
+  "MASHUP": {
+    "Cover": "rbxassetid://123908333917467",
+    "Songs": [
+      { "AssetId": 113410757600322, "Name": "We Found Love + On The Floor + Stereo Love + Calabria", "PlaybackSpeed": 0.37 },
+      { "AssetId": 108181482266830, "Name": "Trance X NEW DROP (Travis Scott, Don Toliver, Metro Boomin)", "PlaybackSpeed": 0.37 }
+    ]
+  },
+  "BKB": {
+    "Cover": "rbxassetid://115098938752072",
+    "Songs": [
+      { "AssetId": 128997556282846, "Name": "BKB JANGAN CALL" },
+      { "AssetId": 97455316054900, "Name": "SESI POTRET" },
+      { "AssetId": 117895146910310, "Name": "Aftershock Breakbeat Stadium" },
+      { "AssetId": 111352674021038, "Name": "Youll_Be_In_My_Heart_YG" },
+      { "AssetId": 104922955360763, "Name": "Jakarta Hari Ini BKB" },
+      { "AssetId": 132453683877116, "Name": "BKB Mardua Holong" },
+      { "AssetId": 99703121727909, "Name": "Mode psawat BKB" },
+      { "AssetId": 110803839492678, "Name": "Mangu (WIDOZ BKB)" },
+      { "AssetId": 117078335452429, "Name": "BREAKBEAT CONCRETE ANGEL REBORN E" },
+      { "AssetId": 77656423714071, "Name": "PESAWAT TEMPUR BERAKBEAT BKB GEN Z MIXTAPE STADIUM" },
+      { "AssetId": 76820170836002, "Name": "Black Hole Breakbeat Stadium" },
+      { "AssetId": 137282435459401, "Name": "Always loving u" },
+      { "AssetId": 102480852706336, "Name": "Jangan tunggu lama lama" },
+      { "AssetId": 134887245394636, "Name": "NU Breakbeat - Wijaya Kusuma" },
+      { "AssetId": 103061498676266, "Name": "THE ONE THAT GOT AWAY STADIUM BREAKBEAT" },
+      { "AssetId": 127057979193160, "Name": "boom Pa", "PlaybackSpeed": "0.81" },
+      { "AssetId": 121537888724332, "Name": "DJ DICINTOI TAK DIHARAGOI" }
+    ]
+  },
+  "EDM": {
+    "Cover": "rbxassetid://96034477299746",
+    "Songs": [
+      { "AssetId": 71154353570837, "Name": "EDM CRAYON VOL 1 [1]", "PlaybackSpeed": 0.5 },
 
+      { "AssetId": 112608577703441, "Name": "Die On This Hill", "PlaybackSpeed": 0.5 }
+    ]
+  },
+  "IndoBounce": {
+    "Cover": "rbxassetid://109372716028097",
+    "Songs": [
+      { "AssetId": 76299293609712, "Name": "MBECAK JAYY MIX 1", "PlaybackSpeed": 0.5 },
+
+      { "AssetId": 89933803661311, "Name": "BASSLINE JAY [5]", "PlaybackSpeed": 0.5 }
+    ]
+  },
+  "MiamiBass": {
+    "Cover": "rbxassetid://88648823405180",
+    "Songs": [
+      { "AssetId": 123015065757725, "Name": "MIAMIBASS 2", "PlaybackSpeed": 0.5 },
+      { "AssetId": 101561429010611, "Name": "MIAMIBASS 3", "PlaybackSpeed": 0.5 }
+    ]
+  },
+  "REMIX": {
+    "Cover": "rbxassetid://92282779677677",
+    "Songs": [
+      { "AssetId": 126843952702136, "Name": "Bounce & Pa BKB", "PlaybackSpeed": 0.4 }
+    ]
+  },
+  "Amapiano": {
+    "Cover": "rbxassetid://92282779677677",
+    "Songs": [
+      { "AssetId": 128371240734061, "Name": "AMAPIANO MIX 1", "PlaybackSpeed": 0.5 },
+      { "AssetId": 125862255385783, "Name": "AMAPIANO MIXTAPE 1", "PlaybackSpeed": 0.5 },
+      { "AssetId": 136105162331218, "Name": "AMAPIANO MIXTAPE 2", "PlaybackSpeed": 0.5 },
+      { "AssetId": 115864217825571, "Name": "AMAPIANO INDO 1", "PlaybackSpeed": 0.5 },
+      { "AssetId": 90592949541390, "Name": "AMAPIANO INDO 2", "PlaybackSpeed": 0.5 }
+    ]
+  },
+  "RNB": {
+    "Cover": "rbxassetid://84244934212070",
+    "Songs": [
+      { "AssetId": 88644202852095, "Name": "The Weeknd - Timeless (Clean)", "PlaybackSpeed": 0.43 },
+
+      { "AssetId": 96376122040105, "Name": "RNB 2000S 2", "PlaybackSpeed": 0.5 }
+    ]
+  }
+}
