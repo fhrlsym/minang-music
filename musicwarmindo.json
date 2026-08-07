@@ -24,6 +24,7 @@
     "Songs": [
       { "AssetId": 98323120010385, "Name": "Maroon 5 - Memories", "PlaybackSpeed": 0.39 },
       { "AssetId": 112762901111341, "Name": "2Pac - GTA San Andreas", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 81974180428946, "Name": "System Of A Down Chop Suey", "PlaybackSpeed": 0.4808 },      
       { "AssetId": 83094448041088, "Name": "Redfoo - New Thang", "PlaybackSpeed": 0.4808 },
       { "AssetId": 70635257073924, "Name": "House of Pain - Jump Around", "PlaybackSpeed": 0.4808 },
       { "AssetId": 101574851252017, "Name": "50 Cent - P.I.M.P.", "PlaybackSpeed": 0.4808 },
