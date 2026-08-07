@@ -62,20 +62,6 @@
   "BKB": {
     "Cover": "rbxassetid://115098938752072",
     "Songs": [
-      { "AssetId": 128997556282846, "Name": "BKB JANGAN CALL", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 97455316054900, "Name": "SESI POTRET", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 117895146910310, "Name": "Aftershock Breakbeat Stadium", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 111352674021038, "Name": "Youll_Be_In_My_Heart_YG", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 104922955360763, "Name": "Jakarta Hari Ini BKB", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 132453683877116, "Name": "BKB Mardua Holong", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 99703121727909, "Name": "Mode psawat BKB", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 110803839492678, "Name": "Mangu (WIDOZ BKB)", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 117078335452429, "Name": "BREAKBEAT CONCRETE ANGEL REBORN E", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 77656423714071, "Name": "PESAWAT TEMPUR BERAKBEAT BKB GEN Z MIXTAPE STADIUM", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 76820170836002, "Name": "Black Hole Breakbeat Stadium", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 137282435459401, "Name": "Always loving u", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 102480852706336, "Name": "Jangan tunggu lama lama", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 134887245394636, "Name": "NU Breakbeat - Wijaya Kusuma", "PlaybackSpeed": 0.4808 },
       { "AssetId": 103061498676266, "Name": "THE ONE THAT GOT AWAY STADIUM BREAKBEAT", "PlaybackSpeed": 0.4808 },
       { "AssetId": 127057979193160, "Name": "boom Pa", "PlaybackSpeed": 0.81 },
       { "AssetId": 121537888724332, "Name": "DJ DICINTOI TAK DIHARAGOI", "PlaybackSpeed": 0.4808 },
@@ -90,7 +76,17 @@
       { "AssetId": 70842806963021, "Name": "Thunderdome megamix", "PlaybackSpeed": 0.4808 },
       { "AssetId": 85127510151365, "Name": "TOMA TRA", "PlaybackSpeed": 0.4808 },
       { "AssetId": 111893201588562, "Name": "TECHNO - Voices In My Head x Insomnia", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 85278801964937, "Name": "POJI VIDRADO", "PlaybackSpeed": 0.4808 }
+      { "AssetId": 85278801964937, "Name": "POJI VIDRADO", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 111608054091627, "Name": "BKB Bumblebee", "PlaybackSpeed": 0.45 },
+      { "AssetId": 132453683877116, "Name": "BKB Mardua Holong" },
+      { "AssetId": 99703121727909, "Name": "Mode psawat BKB" },
+      { "AssetId": 110803839492678, "Name": "Mangu (WIDOZ BKB)" },
+      { "AssetId": 90336912022698, "Name": "Be as one" },
+      { "AssetId": 137282435459401, "Name": "Always loving u" },
+      { "AssetId": 119233817083887, "Name": "black hole" },
+      { "AssetId": 132922111240086, "Name": "NU STADIUM bkb" },
+      { "AssetId": 134478708701128, "Name": " BABY DONT GO" },
+      { "AssetId": 77656423714071, "Name": "PESAWAT TEMPUR BERAKBEAT BKB GEN Z MIXTAPE STADIUM" }
     ]
   },
   "KOPLO": {
