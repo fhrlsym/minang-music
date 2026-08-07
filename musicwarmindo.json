@@ -24,7 +24,6 @@
     "Songs": [
       { "AssetId": 98323120010385, "Name": "Maroon 5 - Memories", "PlaybackSpeed": 0.39 },
       { "AssetId": 112762901111341, "Name": "2Pac - GTA San Andreas", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 81974180428946, "Name": "System Of A Down Chop Suey", "PlaybackSpeed": 0.4808 },      
       { "AssetId": 83094448041088, "Name": "Redfoo - New Thang", "PlaybackSpeed": 0.4808 },
       { "AssetId": 70635257073924, "Name": "House of Pain - Jump Around", "PlaybackSpeed": 0.4808 },
       { "AssetId": 101574851252017, "Name": "50 Cent - P.I.M.P.", "PlaybackSpeed": 0.4808 },
@@ -33,8 +32,11 @@
       { "AssetId": 86285822026548, "Name": "Blow the Whistle", "PlaybackSpeed": 0.4808 },
       { "AssetId": 70812949924857, "Name": "Kodak Black - ZEZE (feat. Travis Scott & Offset)", "PlaybackSpeed": 0.4808 },
       { "AssetId": 117031138497182, "Name": "Travis Scott - SICKO MODE ft. Dra", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 89860506111302, "Name": "Lil Peep - nuts", "PlaybackSpeed": 0.4808 },
       { "AssetId": 101212564404763, "Name": "Drake - Rich Baby Daddy ft. Sexyy Red, SZA", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 92024160388014, "Name": "K3BI - Arah Timur (Free Man)", "PlaybackSpeed": 0.4808 },
       { "AssetId": 90064175136870, "Name": "K3BI - DOA (Dream Over Anything)", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 109632303725742, "Name": "Fetty Wap - Trap Queen", "PlaybackSpeed": 0.4808 },
       { "AssetId": 74504519473806, "Name": "50 Cent - Candy Shop", "PlaybackSpeed": 0.4808 },
       { "AssetId": 127180599044946, "Name": "50 Cent - In Da Club", "PlaybackSpeed": 0.4808 },
       { "AssetId": 84793503643060, "Name": "Funk Flex x KIng Von", "PlaybackSpeed": 0.4808 },
@@ -142,6 +144,14 @@
       { "AssetId": 120829073977821, "Name": "Bernadya - Untungnya", "PlaybackSpeed": 0.4808 },
       { "AssetId": 81734716161965, "Name": "garam dan madu", "PlaybackSpeed": 0.4808 },
       { "AssetId": 128281436297894, "Name": "alay (anak layangan)", "PlaybackSpeed": 0.4808 }
+    ]
+  },
+  "remix": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      { "AssetId": 130177349317074, "Name": "wali band cari jodoh ", "PlaybackSpeed": 0.4808 }
+      
+      
     ]
   }
 }
