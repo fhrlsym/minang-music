@@ -24,7 +24,7 @@
       { "AssetId": 129392829154098, "Name": "HAPPY - PHARRELL WILLIAMS", "PlaybackSpeed": 0.4 }
     ]
   },
-  "VEVO": {
+  "VEVE": {
     "Cover": "rbxassetid://94215284059157",
     "Songs": [
       { "AssetId": 83879245792227, "Name": "no na - rollerblade", "PlaybackSpeed": 0.4808 },
@@ -41,7 +41,6 @@
       { "AssetId": 133348995658557, "Name": "Westlife - My Love", "PlaybackSpeed": 0.4808 },
       { "AssetId": 139151958745076, "Name": "ECKO SHOW - TALK ABOUT ME", "PlaybackSpeed": 0.4808 },
       { "AssetId": 125729588300766, "Name": "ECKO SHOW - GIMME DAT", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 93622699614907, "Name": "ECKO SHOW - Mantan Sombong", "PlaybackSpeed": 0.4808 },
       { "AssetId": 100418641503679, "Name": "Akon - Right Now (Na Na Na)", "PlaybackSpeed": 0.4808 },
       { "AssetId": 124797201204776, "Name": "Akon - Be With You", "PlaybackSpeed": 0.4808 },
       { "AssetId": 78692860083489, "Name": "Akon - Beautiful", "PlaybackSpeed": 0.4808 },
@@ -55,8 +54,7 @@
       { "AssetId": 81755150424807, "Name": "SISITIPSI - Alkohol", "PlaybackSpeed": 0.4808 },
       { "AssetId": 113716529091137, "Name": "Måneskin - Beggin'", "PlaybackSpeed": 0.4808 },
       { "AssetId": 89395578707402, "Name": "Lil Baby - No Plan B", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 121146228226851, "Name": "Wilful Skilful - THE GIANT", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 91991341371895, "Name": "SISITIPSI - Aroma Dia", "PlaybackSpeed": 0.4808 }
+      { "AssetId": 121146228226851, "Name": "Wilful Skilful - THE GIANT", "PlaybackSpeed": 0.4808 }
     ]
   },
   "BKB": {
