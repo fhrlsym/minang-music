@@ -1,4 +1,24 @@
 {
+  "REGGAE": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      { "AssetId": 108355707650778, "Name": "Tertanam dj remix", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 82494215866086, "Name": "Tony Q - Kangen", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 131987794797399, "Name": "Gembira Adalah Obat", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 77172988281555, "Name": "Sal Priadi - Ada Titik Titik Diujung Doa", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 126233050166507, "Name": "Denny Caknan - NEGORO ANGIN", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 83437688874774, "Name": "Enau - Sesi Potret (Reggae Version)", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 89242827474507, "Name": "MILL WEST & BRIANVAL - SUNRISE IS BEAUTIFUL", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 70766859702028, "Name": "Tardub - Pass Me The Lighter", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 100060572254109, "Name": "Bob Marley - Three Little Birds", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 95029860028067, "Name": "Sublime - Santeria", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 128220130415821, "Name": "Bob Marley - Buffalo Soldier", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 101326854248243, "Name": "Steven & Coconuttreez - Welcome To My Paradise", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 70725013775499, "Name": "Bob Marley - One Love", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 77013064560111, "Name": "Bob Marley - Could You Be Loved", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 134845095796166, "Name": "Bob Marley - Jammin", "PlaybackSpeed": 0.4808 }
+    ]
+  },
   "HIPHOP": {
     "Cover": "rbxassetid://116552467897057",
     "Songs": [
@@ -24,13 +44,12 @@
       { "AssetId": 129392829154098, "Name": "HAPPY - PHARRELL WILLIAMS", "PlaybackSpeed": 0.4 }
     ]
   },
-  "VEVE": {
+  "VEVO": {
     "Cover": "rbxassetid://94215284059157",
     "Songs": [
       { "AssetId": 83879245792227, "Name": "no na - rollerblade", "PlaybackSpeed": 0.4808 },
       { "AssetId": 85457374600172, "Name": "Rich Brian - 100 Degrees", "PlaybackSpeed": 0.4808 },
       { "AssetId": 98407418679138, "Name": "Amy Winehouse - Back To Black", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 115481001825554, "Name": "Bondan & Fade2Black - Kroncong Protol", "PlaybackSpeed": 0.4808 },
       { "AssetId": 87418994691850, "Name": "All Time Low - Dear Maria, Count Me In", "PlaybackSpeed": 0.4808 },
       { "AssetId": 118396841107088, "Name": "Hoobastank - The Reason", "PlaybackSpeed": 0.4808 },
       { "AssetId": 88226926072730, "Name": "John Denver - Take Me Home, Country Roads", "PlaybackSpeed": 0.4808 },
@@ -50,7 +69,6 @@
       { "AssetId": 130242898327043, "Name": "Pedro Capó, Farruko - Calma", "PlaybackSpeed": 0.4808 },
       { "AssetId": 91593888537093, "Name": "Dawin - Dessert", "PlaybackSpeed": 0.4808 },
       { "AssetId": 118885321572971, "Name": "LMFAO - Party Rock Anthem", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 81755150424807, "Name": "SISITIPSI - Alkohol", "PlaybackSpeed": 0.4808 },
       { "AssetId": 113716529091137, "Name": "Måneskin - Beggin'", "PlaybackSpeed": 0.4808 },
       { "AssetId": 89395578707402, "Name": "Lil Baby - No Plan B", "PlaybackSpeed": 0.4808 },
       { "AssetId": 121146228226851, "Name": "Wilful Skilful - THE GIANT", "PlaybackSpeed": 0.4808 }
