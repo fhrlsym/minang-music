@@ -71,7 +71,24 @@
       { "AssetId": 118885321572971, "Name": "LMFAO - Party Rock Anthem", "PlaybackSpeed": 0.4808 },
       { "AssetId": 113716529091137, "Name": "Måneskin - Beggin'", "PlaybackSpeed": 0.4808 },
       { "AssetId": 89395578707402, "Name": "Lil Baby - No Plan B", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 121146228226851, "Name": "Wilful Skilful - THE GIANT", "PlaybackSpeed": 0.4808 }
+      { "AssetId": 121146228226851, "Name": "Wilful Skilful - THE GIANT", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 71597319762348, "Name": "Semafor", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 123022500503182, "Name": "MMG (MY MINE GUEH)", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 133459164167293, "Name": "GHETTO by AKON", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 87823083772250, "Name": "Muria Brangkat", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 139407436022734, "Name": "Pretty nona ft K3bi", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 72966154027933, "Name": "K3BI Oke", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 116815946736506, "Name": "Mario G Klau, Juan Reza Baby Pelan Pelan", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 138538460083871, "Name": "ECKO SHOW Pikir Lagi", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 101712366310911, "Name": "ROSE & Bruno Mars APT", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 108697725751867, "Name": "Jason Derulo feat. Snoop Dogg Wiggle", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 94579872962279, "Name": "Justin Bieber Eenie Meenie", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 130017058022488, "Name": "The Script Superheroes", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 117370490271437, "Name": "Icona Pop All Night", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 101601700443167, "Name": "Richello All We Are", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 102661083680294, "Name": "Kesha TiK ToK", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 70931770939327, "Name": "Maroon 5 Moves Like Jagger", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 134701223016090, "Name": "iKON Best Friend", "PlaybackSpeed": 0.4808 }
     ]
   },
   "BKB": {
@@ -99,7 +116,10 @@
       { "AssetId": 119233817083887, "Name": "black hole" },
       { "AssetId": 132922111240086, "Name": "NU STADIUM bkb" },
       { "AssetId": 134478708701128, "Name": " BABY DONT GO" },
-      { "AssetId": 77656423714071, "Name": "PESAWAT TEMPUR BERAKBEAT BKB GEN Z MIXTAPE STADIUM" }
+      { "AssetId": 77656423714071, "Name": "PESAWAT TEMPUR BERAKBEAT BKB GEN Z MIXTAPE STADIUM" },
+      { "AssetId": 123655578881773, "Name": "DJ BAPAKKU DOKTER CINTA BREAKBEAT", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 85035495830622, "Name": "BKB STEPHANIE", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 122799187001918, "Name": "Pitbull Hotel Room Service", "PlaybackSpeed": 0.4808 }
     ]
   },
   "KOPLO": {
@@ -110,7 +130,10 @@
       { "AssetId": 95986880200201, "Name": "BLACKPINK - ME AND MY (INDONESIAN GAMELAN)", "PlaybackSpeed": 0.4808 },
       { "AssetId": 93443451306421, "Name": "BABYMONSTER - WE GO UP", "PlaybackSpeed": 0.4808 },
       { "AssetId": 85593018273821, "Name": "BABYMONSTER - CLIK CLAK", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 106014723496331, "Name": "Khalid - Young Dumb & Broke", "PlaybackSpeed": 0.4808 }
+      { "AssetId": 106014723496331, "Name": "Khalid - Young Dumb & Broke", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 128362482194563, "Name": "Souljah Bilang I Love You", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 99247129545070, "Name": "Rizwan Fadilah Tanpa Bicara", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 106969795978721, "Name": "AKU DAH LUPA ZIA & MIKKY", "PlaybackSpeed": 0.4808 }
     ]
   },
   "INDO BOUNCE": {
@@ -122,7 +145,11 @@
       { "AssetId": 117250981790581, "Name": "DJ - 17 AGUSTUS 1945", "PlaybackSpeed": 0.4808 },
       { "AssetId": 139299687103809, "Name": "DJ - INDONESIA RAYA", "PlaybackSpeed": 0.4808 },
       { "AssetId": 134177354380916, "Name": "ROY RICARDO - JANDA", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 103615061554190, "Name": "Wali - Yank (Effen Bootleg Remix)", "PlaybackSpeed": 0.4808 }
+      { "AssetId": 103615061554190, "Name": "Wali - Yank (Effen Bootleg Remix)", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 101742237782303, "Name": "INDOMAMI (Remix) VinKy", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 88521465095228, "Name": "Bastille Pompeii", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 130177349317074, "Name": "wali band cari jodoh ( Remix by DJ Jambi )", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 123496320723553, "Name": "ARIANA GRANDE DIE FOR YOU", "PlaybackSpeed": 0.4808 }
     ]
   },
   "MUSHUP": {
@@ -133,7 +160,9 @@
       { "AssetId": 82935610768437, "Name": "Tokyo Drift x Temperature x You Little Beauty", "PlaybackSpeed": 0.4808 },
       { "AssetId": 114350286140042, "Name": "C'est la Vie X Danza Kuduro X Magic in the Air", "PlaybackSpeed": 0.4808 },
       { "AssetId": 84365586041979, "Name": "Turn Down for What x Gasolina x Iam Lumoss", "PlaybackSpeed": 0.4808 },
-      { "AssetId": 136939493239730, "Name": "DJ OLD FIGURINHA", "PlaybackSpeed": 0.4808 }
+      { "AssetId": 136939493239730, "Name": "DJ OLD FIGURINHA", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 109625818320619, "Name": "AGIL X RUIS X MURIA DUA", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 98781715847931, "Name": "Just The 2 Of Us fahmyfay", "PlaybackSpeed": 0.4808 }
     ]
   },
   "DRILL": {
@@ -149,9 +178,29 @@
   "remix": {
     "Cover": "rbxassetid://94215284059157",
     "Songs": [
-      { "AssetId": 130177349317074, "Name": "wali band cari jodoh ", "PlaybackSpeed": 0.4808 }
-      
-      
+      { "AssetId": 130177349317074, "Name": "wali band cari jodoh", "PlaybackSpeed": 0.4808 }
+    ]
+  },
+  "AMAPIANO": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      { "AssetId": 134315310898573, "Name": "Baby Justin Bieber", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 75283820820956, "Name": "Tabola Bale Silet Open", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 107870152024334, "Name": "Kasih Aba Aba", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 111800502789828, "Name": "Sempurna", "PlaybackSpeed": 0.4808 }
+    ]
+  },
+  "EDM": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      { "AssetId": 116099277812833, "Name": "Take Down", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 78110797490978, "Name": "Don Toliver E85", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 106356183255635, "Name": "Pitbull Feel This Moment", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 134195968669913, "Name": "Coffin Dance", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 125299184682207, "Name": "Before You Go", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 77256424477422, "Name": "Jakarta Insomnia fahmyfay", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 92777137562960, "Name": "American Authors Best Day Of My Life", "PlaybackSpeed": 0.4808 },
+      { "AssetId": 112003071443231, "Name": "My Heart Will Go On", "PlaybackSpeed": 0.4808 }
     ]
   }
 }
