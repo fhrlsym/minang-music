@@ -1,1 +1,245 @@
-
+{
+  "Cover": "rbxassetid://82071825011989",
+  "Songs": [
+    {
+      "AssetId": 128997556282846,
+      "Name": "BKB JANGAN CALL",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 73160630950812,
+      "Name": "BERONDONG TUA BREAKBEAT",
+      "PlaybackSpeed": 0.4348
+    },
+    {
+      "AssetId": 71424449131588,
+      "Name": "DALINDA STADIUM BREAKBEAT",
+      "PlaybackSpeed": 0.4348
+    },
+    {
+      "AssetId": 112047503343869,
+      "Name": "SESI POTRET BREAKBEAT",
+      "PlaybackSpeed": 0.4348
+    },
+    {
+      "AssetId": 98780465818781,
+      "Name": "HABIH TIADO BASISO BREAKBEAT",
+      "PlaybackSpeed": 0.4
+    },
+    {
+      "AssetId": 123108843613736,
+      "Name": "BKB SELAMAT MALAM",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 75677072060380,
+      "Name": "BKB MOUWI",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 128684507463282,
+      "Name": "BKB TAKAN SIA KAN DIA",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 105561516724971,
+      "Name": "BKB ASIK",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 100996535707229,
+      "Name": "BKB SAMSON",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 111352674021038,
+      "Name": "YOU'LL BE IN MY HEART YG",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 104922955360763,
+      "Name": "JAKARTA HARI INI BKB",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 132453683877116,
+      "Name": "BKB MARDUA HOLONG",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 99703121727909,
+      "Name": "MODE PESAWAT BKB",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 110803839492678,
+      "Name": "MANGU (WIDOZ BKB)",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 76309126310412,
+      "Name": "TTM BKB",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 128859022909604,
+      "Name": "BKB ET ME KS",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 120678623958423,
+      "Name": "BB KENJIRO 8",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 70765965373285,
+      "Name": "KENANGAN TERINDAH BKB",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 115792295686833,
+      "Name": "DJ BLACK DRAGON - BKB HR NY COVER",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 111608054091627,
+      "Name": "BKB BUMBLEBEE",
+      "PlaybackSpeed": 0.45
+    },
+    {
+      "AssetId": 90336912022698,
+      "Name": "BE AS ONE",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 137282435459401,
+      "Name": "ALWAYS LOVING U",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 119233817083887,
+      "Name": "BLACK HOLE",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 132922111240086,
+      "Name": "NU STADIUM BKB",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 134478708701128,
+      "Name": "BABY DONT GO",
+      "PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 80535370414324,
+      "Name": "MAKE ME FEEL",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 136421715107245,
+      "Name": "KEJUT BAHU",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 127896439679152,
+      "Name": "DDU DU DDU DU",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 95918871866279,
+      "Name": "MIGENTE REMIX",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 102436747284963,
+      "Name": "CAMPEDA REMIX",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 102564957989727,
+      "Name": "TAK INGIN USAI",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 118609213997908,
+      "Name": "MIXTAPE MAMAE",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 127450650536566,
+      "Name": "ASIKIN AJA REMIX",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 88354861901648,
+      "Name": "JIKA ITU YANG TERBAIK",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 120006890452535,
+      "Name": "DJ ASMARA",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 109744333040615,
+      "Name": "DJ EENIE MEENIE X DANZA KUDURO REMIX",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 81862765771594,
+      "Name": "DJ THAT SHOULD BE ME BREAKBEAT",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 129620921037624,
+      "Name": "DJ MOONLIGHT SHADOW",
+      PlaybackSpeed = 1
+    },
+    {
+      "AssetId": 77656423714071,
+      "Name": "PESAWAT TEMPUR BREAKBEAT BKB GEN Z MIXTAPE STADIUM",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 95961351535687,
+      "Name": "JARS - HARDSTYLE 12",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 83145949495180,
+      "Name": "PHONK 1",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId = 104539150607840,
+      "Name": "PHONK NEW REMIX",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 116182180237455,
+      "Name": "DOWN HYPERTECHNO REMIX",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 75351219751169,
+      "Name": "TAGULING GULING X TABOLA BALE",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 132669970261605,
+      "Name": "THIS I VOW",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 99326305036013,
+      "Name": "CONCRETE ANGEL BB",
+      PlaybackSpeed": 1
+    },
+    {
+      "AssetId": 121537888724332,
+      "Name": "DJ DICINTOI TAK DIHARAGOI",
+      PlaybackSpeed": 1
+    }
+  ]
+}
