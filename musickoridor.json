@@ -1,6 +1,6 @@
 {
   "Breakbeat": {
-    "Cover": "rbxassetid://82071825011989",
+    "Cover": "rbxassetid://98124522508795",
     "Songs": [
       {
         "AssetId": 128997556282846,
@@ -200,5 +200,45 @@
         "Name": "DJ DICINTOI TAK DIHARAGOI"
       }
     ]
+  },
+  "Indobounce": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "RNB": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "Amapiano": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "Reggae": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "HipHop": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "Vevo": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "Koplo": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "Fungkot": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "Minang": {
+    "Cover": "rbxassetid://98124522508795",
+    "Songs": []
+  },
+  "Timur": {
+    "Cover": "rbxassetid://981245225087950",
+    "Songs": []
   }
 }
