@@ -2,292 +2,1145 @@
   "Breakbeat": {
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
-      { "AssetId": 128997556282846, "Name": "BKB JANGAN CALL" },
-      { "AssetId": 73160630950812, "Name": "BERONDONG TUA BREAKBEAT", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 71424449131588, "Name": "DALINDA STADIUM BREAKBEAT", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 112047503343869, "Name": "SESI POTRET BREAKBEAT", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 98780465818781, "Name": "HABIH TIADO BASISO BREAKBEAT", "PlaybackSpeed": 0.4 },
-      { "AssetId": 123108843613736, "Name": "BKB SELAMAT MALAM" },
-      { "AssetId": 75677072060380, "Name": "BKB MOUWI" },
-      { "AssetId": 128684507463282, "Name": "BKB TAKAN SIA KAN DIA" },
-      { "AssetId": 105561516724971, "Name": "BKB ASIK" },
-      { "AssetId": 100996535707229, "Name": "Bkb samson" },
-      { "AssetId": 111352674021038, "Name": "Youll_Be_In_My_Heart_YG" },
-      { "AssetId": 104922955360763, "Name": "Jakarta Hari Ini BKB" },
-      { "AssetId": 132453683877116, "Name": "BKB Mardua Holong" },
-      { "AssetId": 99703121727909, "Name": "Mode psawat BKB" },
-      { "AssetId": 110803839492678, "Name": "Mangu (WIDOZ BKB)" },
-      { "AssetId": 76309126310412, "Name": "TTM BKB" },
-      { "AssetId": 128859022909604, "Name": "BKB_ET_ME_KS" },
-      { "AssetId": 120678623958423, "Name": "BB_KENJIRO_8" },
-      { "AssetId": 70765965373285, "Name": "kenangan terindah BKB" },
-      { "AssetId": 115792295686833, "Name": "Dj Black Dragon - bkb Hr ,ny Cover" },
-      { "AssetId": 111608054091627, "Name": "BKB Bumblebee", "PlaybackSpeed": 0.45 },
-      { "AssetId": 90336912022698, "Name": "Be as one" },
-      { "AssetId": 137282435459401, "Name": "Always loving u" },
-      { "AssetId": 119233817083887, "Name": "black hole" },
-      { "AssetId": 132922111240086, "Name": "NU STADIUM bkb" },
-      { "AssetId": 134478708701128, "Name": " BABY DONT GO" },
-      { "AssetId": 80535370414324, "Name": " MAKE ME FEEL" },
-      { "AssetId": 136421715107245, "Name": " KEJUT BAHU" },
-      { "AssetId": 127896439679152, "Name": " DDU DU DDU DU" },
-      { "AssetId": 95918871866279, "Name": " MIGENTE REMIX" },
-      { "AssetId": 102436747284963, "Name": "CPAMPEDA REMIX" },
-      { "AssetId": 102564957989727, "Name": "TAK INGIN USAI" },
-      { "AssetId": 118609213997908, "Name": " MIXTAPE MAMAE" },
-      { "AssetId": 127450650536566, "Name": "CASIKIN AJA REMIX" },
-      { "AssetId": 88354861901648, "Name": "JIKA ITU YANG TERBAIK " },
-      { "AssetId": 120006890452535, "Name": "DJ ASMARA " },
-      { "AssetId": 109744333040615, "Name": "DJ EENIE MEENIE X DANZA KUDURO REMIX " },
-      { "AssetId": 81862765771594, "Name": "DJ THAT SHOULD BE ME BREAK BEAT" },
-      { "AssetId": 129620921037624, "Name": "DJ MOONLIGHT SHADOW " },
-      { "AssetId": 77656423714071, "Name": "PESAWAT TEMPUR BERAKBEAT BKB GEN Z MIXTAPE STADIUM" },
-      { "AssetId": 95961351535687, "Name": "Jars _ Hardstyle 12" },
-      { "AssetId": 83145949495180, "Name": "Phonk1" },
-      { "AssetId": 104539150607840, "Name": "Phonk_NewRemix" },
-      { "AssetId": 116182180237455, "Name": "Down_Hypertechno_Remix" },
-      { "AssetId": 75351219751169, "Name": "TAGULING GULING X TABOLA BALE" },
-      { "AssetId": 132669970261605, "Name": "This_i_vow" },
-      { "AssetId": 99326305036013, "Name": "Concrete_Angel_BB" },
-      { "AssetId": 121537888724332, "Name": "DJ DICINTOI TAK DIHARAGOI" }
+      {
+        "AssetId": 128997556282846,
+        "Name": "BKB JANGAN CALL"
+      },
+      {
+        "AssetId": 73160630950812,
+        "Name": "BERONDONG TUA BREAKBEAT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71424449131588,
+        "Name": "DALINDA STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 112047503343869,
+        "Name": "SESI POTRET BREAKBEAT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 98780465818781,
+        "Name": "HABIH TIADO BASISO BREAKBEAT",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 123108843613736,
+        "Name": "BKB SELAMAT MALAM"
+      },
+      {
+        "AssetId": 75677072060380,
+        "Name": "BKB MOUWI"
+      },
+      {
+        "AssetId": 128684507463282,
+        "Name": "BKB TAKAN SIA KAN DIA"
+      },
+      {
+        "AssetId": 105561516724971,
+        "Name": "BKB ASIK"
+      },
+      {
+        "AssetId": 100996535707229,
+        "Name": "Bkb samson"
+      },
+      {
+        "AssetId": 111352674021038,
+        "Name": "Youll_Be_In_My_Heart_YG"
+      },
+      {
+        "AssetId": 104922955360763,
+        "Name": "Jakarta Hari Ini BKB"
+      },
+      {
+        "AssetId": 132453683877116,
+        "Name": "BKB Mardua Holong"
+      },
+      {
+        "AssetId": 99703121727909,
+        "Name": "Mode psawat BKB"
+      },
+      {
+        "AssetId": 110803839492678,
+        "Name": "Mangu (WIDOZ BKB)"
+      },
+      {
+        "AssetId": 76309126310412,
+        "Name": "TTM BKB"
+      },
+      {
+        "AssetId": 128859022909604,
+        "Name": "BKB_ET_ME_KS"
+      },
+      {
+        "AssetId": 120678623958423,
+        "Name": "BB_KENJIRO_8"
+      },
+      {
+        "AssetId": 70765965373285,
+        "Name": "kenangan terindah BKB"
+      },
+      {
+        "AssetId": 115792295686833,
+        "Name": "Dj Black Dragon - bkb Hr ,ny Cover"
+      },
+      {
+        "AssetId": 111608054091627,
+        "Name": "BKB Bumblebee",
+        "PlaybackSpeed": 0.45
+      },
+      {
+        "AssetId": 90336912022698,
+        "Name": "Be as one"
+      },
+      {
+        "AssetId": 137282435459401,
+        "Name": "Always loving u"
+      },
+      {
+        "AssetId": 119233817083887,
+        "Name": "black hole"
+      },
+      {
+        "AssetId": 132922111240086,
+        "Name": "NU STADIUM bkb"
+      },
+      {
+        "AssetId": 134478708701128,
+        "Name": " BABY DONT GO"
+      },
+      {
+        "AssetId": 80535370414324,
+        "Name": " MAKE ME FEEL"
+      },
+      {
+        "AssetId": 136421715107245,
+        "Name": " KEJUT BAHU"
+      },
+      {
+        "AssetId": 127896439679152,
+        "Name": " DDU DU DDU DU"
+      },
+      {
+        "AssetId": 95918871866279,
+        "Name": " MIGENTE REMIX"
+      },
+      {
+        "AssetId": 102436747284963,
+        "Name": "CPAMPEDA REMIX"
+      },
+      {
+        "AssetId": 102564957989727,
+        "Name": "TAK INGIN USAI"
+      },
+      {
+        "AssetId": 118609213997908,
+        "Name": " MIXTAPE MAMAE"
+      },
+      {
+        "AssetId": 127450650536566,
+        "Name": "CASIKIN AJA REMIX"
+      },
+      {
+        "AssetId": 88354861901648,
+        "Name": "JIKA ITU YANG TERBAIK "
+      },
+      {
+        "AssetId": 120006890452535,
+        "Name": "DJ ASMARA "
+      },
+      {
+        "AssetId": 109744333040615,
+        "Name": "DJ EENIE MEENIE X DANZA KUDURO REMIX "
+      },
+      {
+        "AssetId": 81862765771594,
+        "Name": "DJ THAT SHOULD BE ME BREAK BEAT"
+      },
+      {
+        "AssetId": 129620921037624,
+        "Name": "DJ MOONLIGHT SHADOW "
+      },
+      {
+        "AssetId": 77656423714071,
+        "Name": "PESAWAT TEMPUR BERAKBEAT BKB GEN Z MIXTAPE STADIUM"
+      },
+      {
+        "AssetId": 95961351535687,
+        "Name": "Jars _ Hardstyle 12"
+      },
+      {
+        "AssetId": 83145949495180,
+        "Name": "Phonk1"
+      },
+      {
+        "AssetId": 104539150607840,
+        "Name": "Phonk_NewRemix"
+      },
+      {
+        "AssetId": 116182180237455,
+        "Name": "Down_Hypertechno_Remix"
+      },
+      {
+        "AssetId": 75351219751169,
+        "Name": "TAGULING GULING X TABOLA BALE"
+      },
+      {
+        "AssetId": 132669970261605,
+        "Name": "This_i_vow"
+      },
+      {
+        "AssetId": 99326305036013,
+        "Name": "Concrete_Angel_BB"
+      },
+      {
+        "AssetId": 121537888724332,
+        "Name": "DJ DICINTOI TAK DIHARAGOI"
+      }
     ]
   },
-      "MxT": {
+  "MxT": {
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
-    { "AssetId": 129308287507967, "Name": "Wita Sofi Ft Jacson Zeran - Angin Malam" },
-    { "AssetId": 98035553263590, "Name": "Minang Timur - Atta Music", "PlaybackSpeed": 0.4348 },
-    { "AssetId": 138304500504217, "Name": "NURMALA REMIX" },
-    { "AssetId": 118725430576330, "Name": "Wita Sofi Ft Juan Reza - Nyong Dari Timur" },
-    { "AssetId": 122198489118865, "Name": "Dendang minang" }
+      {
+        "AssetId": 129308287507967,
+        "Name": "Wita Sofi Ft Jacson Zeran - Angin Malam"
+      },
+      {
+        "AssetId": 98035553263590,
+        "Name": "Minang Timur - Atta Music",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 138304500504217,
+        "Name": "NURMALA REMIX"
+      },
+      {
+        "AssetId": 118725430576330,
+        "Name": "Wita Sofi Ft Juan Reza - Nyong Dari Timur"
+      },
+      {
+        "AssetId": 122198489118865,
+        "Name": "Dendang minang"
+      }
     ]
   },
   "Timur": {
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
-      { "AssetId": 118734091206199, "Name": "Bercanda - Silet Open Up, SonaOne" },
-      { "AssetId": 99090443589136, "Name": "TOTON CARIBO AMBON MANIS", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 90241173915238, "Name": "body pata pata, thailand edit", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 129111125789598, "Name": "Mata Merah NANDO ON THE BEAT", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 92320678755964, "Name": "Tua Bangka Jarang Sadar", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 93275654571280, "Name": "DJ OBH COMBI SACHET", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 94044451869480, "Name": "DJ Irax & Bsmart Tai", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 136601973341800, "Name": "DJ MAMA PAPA LARANG", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 136372378084000, "Name": "DJ FULL DROP SIUL PAKU PAKU SENG", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 117250981790581, "Name": "DJ 17 AGUSTUS 1945", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 99090443589136, "Name": "DJ INDONESIA RAYA 13929E", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 137452389298605, "Name": "ABCD PALA PUSING", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 106420082514603, "Name": "NOT EMPTY PAPSEL", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 116684892040732, "Name": "RACIKAN TIMUR", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 126669735919567, "Name": "TOR MONITOR KETUA ORANG BARU LEBE GACOR", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 118612780081407, "Name": "DJ BETA GAYA GAYA", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 88832653357251, "Name": "JUBI RAP - SATU JAYAPURA", "PlaybackSpeed": 0.4 },
-      { "AssetId": 71848288411682, "Name": "Reza Artamevia - Berharap Tak Berpisah", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 77510252943847, "Name": "NANTIKAN BETA MALUKU _ PARTY SENTAK _ DJ PAPA REMIX TERBARU 2025", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 110616735214591, "Name": "Lenggang Patah - Reynaldy,Carlos Hip Hop,Rikardo", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 96830664357841, "Name": "MAHINA AMARIMA ● RUDDY LAILOSSA", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 123662402183946, "Name": "RACI KUAH - Fresly Nikijuluw", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 76291000248604, "Name": "Wizz Baker - JANG BALIKAN", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 77030976608854, "Name": "Jacson Zeran - Gaya Lama", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 77520859438897, "Name": "Jacson Zeran - BUCE", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 96147512511662, "Name": "Juan Reza kalau suka bilang", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 134545632963054, "Name": "Just The 2 Of Us - fahmyfay x Liquid Silva", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 128091470106972, "Name": "TANGKAP BASAH", "PlaybackSpeed": 0.4 },
-      { "AssetId": 87959928200996, "Name": "DJ PUTAR KE KIRI E", "PlaybackSpeed": 0.4 },
-      { "AssetId": 133214902938191, "Name": "Sal Priadi - Ada Titik-Titik Diujung Doa By As Tone", "PlaybackSpeed": 0.4 },
-      { "AssetId": 133858423404573, "Name": "LUMBA LUMBA", "PlaybackSpeed": 0.4 },
-      { "AssetId": 140159027633234, "Name": "Eno Smaper, Atta Halilintar - Pemain Lama", "PlaybackSpeed": 0.4 },
-      { "AssetId": 114181170470418, "Name": "TOTON CARIBO - YOU UNDERSTAND", "PlaybackSpeed": 0.4 },
-      { "AssetId": 94158322371765, "Name": "Juan Reza", "PlaybackSpeed": 0.4 },
-      { "AssetId": 122812358726085, "Name": "Jacson Zeran - BUCE", "PlaybackSpeed": 0.4 },
-      { "AssetId": 96132848541870, "Name": "HOMPIMPA - Dante Nababan", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 120637386612645, "Name": "CHESYLINO' - BADUT", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 133116278499026, "Name": "Omcon SB - Canda Nyaman" },
-      { "AssetId": 97953487576447, "Name": "Omcon SB - Barisan Mantan" },
-      { "AssetId": 126542716730318, "Name": "TRAUMA" },
-      { "AssetId": 133685103477217, "Name": "kota Daeng - Lagu Acara Poco-Poco Remix" },
-      { "AssetId": 90084447064811, "Name": "Melandy'j & Vj Darbulz - Chacha Ocay" },
-      { "AssetId": 130710114213331, "Name": "T.R.C_CHA CHA JANG BILANG MAMA" },
-      { "AssetId": 87836445216420, "Name": "K3BI - Oke" },
-      { "AssetId": 92728811019942, "Name": "AMBOINA SONG PARTY SENTAK DJ PAPA REMIX" },
-      { "AssetId": 96950629371905, "Name": "DJ TOMA TOMA REMIX VIRAL TIKTOK" },
-      { "AssetId": 90173502765924, "Name": "nona ntt" },
-      { "AssetId": 129959612888762, "Name": "orang timur" },
-      { "AssetId": 70984339033167, "Name": "CHESYLINO' - Terpesona" },
-      { "AssetId": 85608795868444, "Name": "CHESYLINO' - Terserah" },
-      { "AssetId": 72292223462244, "Name": "FARIS ADAM - GAMON LUCU-LUCU" },
-      { "AssetId": 129959612888763, "Name": "FARIS ADAM & RANDI HUSAIN Ft DJIPENG - SALTING GILA" },
-      { "AssetId": 131214052225364, "Name": "Rendy Da Silva - JAMILA WETA COVER BY JUAN REZA" },
-      { "AssetId": 90507446775371, "Name": "OPM - ANGGA DERMAWAN" },
-      { "AssetId": 116833891541622, "Name": "PASTI BOLEH - ANGGA DERMAWAN" },
-      { "AssetId": 97140685399162, "Name": "08 - ANGGA DERMAWAN" },
-      { "AssetId": 80563340442691, "Name": "CHEI SUDAHLAH - ANGGA DERMAWAN" },
-      { "AssetId": 105813704482277, "Name": "BIMSALABIM - ANGGA DERMAWAN" },
-      { "AssetId": 110374523571343, "Name": "Aldo Bz - Ini Timur Boss" },
-      { "AssetId": 101916285148900, "Name": "NTTILES 1 ft. Juan Reza" },
-      { "AssetId": 101011979453506, "Name": "RENDY DA SILVA - JEMPUT NONA" },
-      { "AssetId": 112199558778745, "Name": "TOTON CARIBO - HITUNG HITUNG" },
-      { "AssetId": 132683596651209, "Name": "Jacson Zeran - MATA MATA - Toton Caribo" },
-      { "AssetId": 87313861864208, "Name": "Balik Kanan - Mario G Klau" },
-      { "AssetId": 116106962162171, "Name": "M E M I - YOHANA KASTANEDA NONA HALONG" },
-      { "AssetId": 130385214624232, "Name": "SELAMAT ULANG TAHUN (REMIX) - ARQ KRIBS" },
-      { "AssetId": 94887825247079, "Name": "ANGELINA - Onar Duan RMXR × Jambra Beloaja" },
-      { "AssetId": 98417821492423, "Name": "Juan Reza Ft Emooz Kofit & VGT Remco" },
-      { "AssetId": 137533509996177, "Name": "FAJA SKALI - ANGGA DERMAWAN" },
-      { "AssetId": 118660683469782, "Name": "TOKI PINTU - ANGGA DERMAWAN FT ALAN DARMAWAN" },
-      { "AssetId": 72904748967918, "Name": "BESTIE - ANGGA DERMAWAN FT TOTON CARIBO" },
-      { "AssetId": 70792022086426, "Name": "DOLA - ANGGA DERMAWAN" },
-      { "AssetId": 81353436414708, "Name": "DUIT - ANGGA DERMAWAN" },
-      { "AssetId": 79819541041740, "Name": "Juan Reza Ft Kapthen Purek - Mati Gaya" },
-      { "AssetId": 82008231679503, "Name": "KapthenpureK - Kaka Gandeng" },
-      { "AssetId": 85382898972160, "Name": "TOTON CARIBO - LAKI LAKI TIMUR" },
-      { "AssetId": 71453888490382, "Name": "Juan Reza feat. Mendy & Niken Soge - Badansa" },
-      { "AssetId": 77989254270963, "Name": "INNOCENTLAMS - ABU NAIK" },
-      { "AssetId": 104062443752473, "Name": "TOTON CARIBO - AMBON MANISE FEAT NOVIA BACHMID" },
-      { "AssetId": 121443613899322, "Name": "RENDY DA SILVA - MARI DENDANG" },
-      { "AssetId": 127211922227914, "Name": "Juan Reza - Geleng Geleng" },
-      { "AssetId": 116607451552237, "Name": "Nyong Timur - Gihon Marel X Jacson Zeran" },
-      { "AssetId": 92123422536477, "Name": "Martin Hill - SERBA SALAH" },
-      { "AssetId": 83667987269611, "Name": "Wizz Baker - Bikin Sa Gila" },
-      { "AssetId": 74247598483378, "Name": "Wizz Baker - Nikah Kapan" },
-      { "AssetId": 87241817485619, "Name": "TRC_WAYASE SO NAE PUADE" },
-      { "AssetId": 124022205741364, "Name": "BRINGIN HOME - Anjani Mix" },
-      { "AssetId": 116259722863944, "Name": "Fresly Nikijuluw TULUS DAR HATI" },
-      { "AssetId": 116849943890238, "Name": "SU DENG TAONG - MARVEY KAYA" },
-      { "AssetId": 140397070631119, "Name": "FARIS ADAM - BADANSA" },
-      { "AssetId": 118952326581206, "Name": "Juan Reza - SEKA" },
-      { "AssetId": 117697294101689, "Name": "LUKA DALAM" },
-      { "AssetId": 104563704217782, "Name": "Hilang - Justy Aldrin" },
-      { "AssetId": 120151483741973, "Name": "BETA SALAH APA - Fresly Nikijuluw" },
-      { "AssetId": 96229560575463, "Name": "ANGIN – DODDIE LATUHARHARY" },
-      { "AssetId": 109038756405775, "Name": "Beta Seng Marah - Mitha Talahatu" },
-      { "AssetId": 76289026101919, "Name": "Sio Kenapa - Marvey Kaya" },
-      { "AssetId": 110097533711268, "Name": "Dingin - Doddie Latuharhary" },
-      { "AssetId": 134823164302827, "Name": "Memi Yohana Kastaneda - Nona Halong", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 113684931589835, "Name": "Kelvin Fordatkossu - Nona Kairatu" },
-      { "AssetId": 104858973296408, "Name": "RIZAL - LILIS RL" },
-      { "AssetId": 102568769630075, "Name": "Ade Su Nikah - Izanor Alveiro" },
-      { "AssetId": 128557842454693, "Name": "DANKE - DODDIE LATUHARHAR" },
-      { "AssetId": 138152277526306, "Name": "Trada Dua - Adim MF Ft Jacson Zeran" },
-      { "AssetId": 115573935737814, "Name": "Macepurba - Senyum Tipis Tipis" },
-      { "AssetId": 77470423513150, "Name": "KAPTEN HIPHOP - PRODUK TIMUR" },
-      { "AssetId": 116868846580315, "Name": "TOTON CARIBO - NGAPAIN REPOT" },
-      { "AssetId": 114430945576158, "Name": "CINTA BIKIN BODO - ONA HETHARUA" },
-      { "AssetId": 73808841763431, "Name": "Ko Cantik Tapi Sombong" },
-      { "AssetId": 76661809682658, "Name": "Rivaldo - WASALAM Feat R.M.D x Heroiz x Ecko x Kippin Rush × eLrio" },
-      { "AssetId": 75779152988813, "Name": "TAMANG PUNG KISAH - Fresly Nikijuluw" },
-      { "AssetId": 84535774716944, "Name": "KAKA ANDII - AKADES" },
-      { "AssetId": 101370999138590, "Name": "ambon manise" },
-      { "AssetId": 105275124730219, "Name": "DJ PLAT KT - ORA URUS - IKOSAM REMAKE" },
-      { "AssetId": 81499687886010, "Name": "DJ ORA URUS REMIX VIRAL FYP TIKTOK TERBARU 2026! Akbar Chalay" },
-      { "AssetId": 126143162302132, "Name": "DJ SO TERLAMBAT TERBARU" },
-      { "AssetId": 131727071318220, "Name": "DJ SIO NONA TERBARU" },
-      { "AssetId": 126914321755243, "Name": "KO STOP TIPU - BASS GLEER" },
-      { "AssetId": 130086024365686, "Name": "DJ KAKA, ADE MASIH SEKOLAH" },
-      { "AssetId": 104088886204192, "Name": "Juan Reza - Nona Minang" },
-      { "AssetId": 83430226940192, "Name": "IKAN NAE DI PANTE" },
-      { "AssetId": 101911305321020, "Name": "KAKA MAIN SALAH X BELIS MAHAL" },
-      { "AssetId": 79800505111796, "Name": "DJ TOBELO PART2 FUNKY NIGHT REMIXER MANADO" },
-      { "AssetId": 119505755990033, "Name": "Dendang Minang Timur, Diva Aurel Ft Oncho" },
-      { "AssetId": 76274147079208, "Name": "PUTAR-PUTAR - Jacson Zeran Ft. Juan Reza" },
-      { "AssetId": 135380535084896, "Name": "DJ SA STOP MABOK" },
-      { "AssetId": 71401529164754, "Name": "DJ KAKA PU MANIS - CURI CURI PANDANG MSLOW" },
-      { "AssetId": 138076099086917, "Name": "DJ BETA JANJI BETA JAGA ALE UNTUK SELAMANYA | DJ JANJI PUTIH SLOW" },
-      { "AssetId": 98504720134484, "Name": "DJ SU JAUH SA TANAM TAPI HATI TRA HASIL REMIX JJ" },
-      { "AssetId": 122466358308774, "Name": "ubur ubur" }
+      {
+        "AssetId": 118734091206199,
+        "Name": "Bercanda - Silet Open Up, SonaOne"
+      },
+      {
+        "AssetId": 99090443589136,
+        "Name": "TOTON CARIBO AMBON MANIS",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 90241173915238,
+        "Name": "body pata pata, thailand edit",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 129111125789598,
+        "Name": "Mata Merah NANDO ON THE BEAT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 92320678755964,
+        "Name": "Tua Bangka Jarang Sadar",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 93275654571280,
+        "Name": "DJ OBH COMBI SACHET",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 94044451869480,
+        "Name": "DJ Irax & Bsmart Tai",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 136601973341800,
+        "Name": "DJ MAMA PAPA LARANG",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 136372378084000,
+        "Name": "DJ FULL DROP SIUL PAKU PAKU SENG",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 117250981790581,
+        "Name": "DJ 17 AGUSTUS 1945",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 99090443589136,
+        "Name": "DJ INDONESIA RAYA 13929E",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 137452389298605,
+        "Name": "ABCD PALA PUSING",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 106420082514603,
+        "Name": "NOT EMPTY PAPSEL",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 116684892040732,
+        "Name": "RACIKAN TIMUR",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 126669735919567,
+        "Name": "TOR MONITOR KETUA ORANG BARU LEBE GACOR",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 118612780081407,
+        "Name": "DJ BETA GAYA GAYA",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 88832653357251,
+        "Name": "JUBI RAP - SATU JAYAPURA",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 71848288411682,
+        "Name": "Reza Artamevia - Berharap Tak Berpisah",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 77510252943847,
+        "Name": "NANTIKAN BETA MALUKU _ PARTY SENTAK _ DJ PAPA REMIX TERBARU 2025",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 110616735214591,
+        "Name": "Lenggang Patah - Reynaldy,Carlos Hip Hop,Rikardo",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 96830664357841,
+        "Name": "MAHINA AMARIMA ● RUDDY LAILOSSA",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123662402183946,
+        "Name": "RACI KUAH - Fresly Nikijuluw",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 76291000248604,
+        "Name": "Wizz Baker - JANG BALIKAN",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 77030976608854,
+        "Name": "Jacson Zeran - Gaya Lama",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 77520859438897,
+        "Name": "Jacson Zeran - BUCE",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 96147512511662,
+        "Name": "Juan Reza kalau suka bilang",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 134545632963054,
+        "Name": "Just The 2 Of Us - fahmyfay x Liquid Silva",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 128091470106972,
+        "Name": "TANGKAP BASAH",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 87959928200996,
+        "Name": "DJ PUTAR KE KIRI E",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 133214902938191,
+        "Name": "Sal Priadi - Ada Titik-Titik Diujung Doa By As Tone",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 133858423404573,
+        "Name": "LUMBA LUMBA",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 140159027633234,
+        "Name": "Eno Smaper, Atta Halilintar - Pemain Lama",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 114181170470418,
+        "Name": "TOTON CARIBO - YOU UNDERSTAND",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 94158322371765,
+        "Name": "Juan Reza",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 122812358726085,
+        "Name": "Jacson Zeran - BUCE",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 96132848541870,
+        "Name": "HOMPIMPA - Dante Nababan",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 120637386612645,
+        "Name": "CHESYLINO' - BADUT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 133116278499026,
+        "Name": "Omcon SB - Canda Nyaman"
+      },
+      {
+        "AssetId": 97953487576447,
+        "Name": "Omcon SB - Barisan Mantan"
+      },
+      {
+        "AssetId": 126542716730318,
+        "Name": "TRAUMA"
+      },
+      {
+        "AssetId": 133685103477217,
+        "Name": "kota Daeng - Lagu Acara Poco-Poco Remix"
+      },
+      {
+        "AssetId": 90084447064811,
+        "Name": "Melandy'j & Vj Darbulz - Chacha Ocay"
+      },
+      {
+        "AssetId": 130710114213331,
+        "Name": "T.R.C_CHA CHA JANG BILANG MAMA"
+      },
+      {
+        "AssetId": 87836445216420,
+        "Name": "K3BI - Oke"
+      },
+      {
+        "AssetId": 92728811019942,
+        "Name": "AMBOINA SONG PARTY SENTAK DJ PAPA REMIX"
+      },
+      {
+        "AssetId": 96950629371905,
+        "Name": "DJ TOMA TOMA REMIX VIRAL TIKTOK"
+      },
+      {
+        "AssetId": 90173502765924,
+        "Name": "nona ntt"
+      },
+      {
+        "AssetId": 129959612888762,
+        "Name": "orang timur"
+      },
+      {
+        "AssetId": 70984339033167,
+        "Name": "CHESYLINO' - Terpesona"
+      },
+      {
+        "AssetId": 85608795868444,
+        "Name": "CHESYLINO' - Terserah"
+      },
+      {
+        "AssetId": 72292223462244,
+        "Name": "FARIS ADAM - GAMON LUCU-LUCU"
+      },
+      {
+        "AssetId": 129959612888763,
+        "Name": "FARIS ADAM & RANDI HUSAIN Ft DJIPENG - SALTING GILA"
+      },
+      {
+        "AssetId": 131214052225364,
+        "Name": "Rendy Da Silva - JAMILA WETA COVER BY JUAN REZA"
+      },
+      {
+        "AssetId": 90507446775371,
+        "Name": "OPM - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 116833891541622,
+        "Name": "PASTI BOLEH - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 97140685399162,
+        "Name": "08 - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 80563340442691,
+        "Name": "CHEI SUDAHLAH - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 105813704482277,
+        "Name": "BIMSALABIM - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 110374523571343,
+        "Name": "Aldo Bz - Ini Timur Boss"
+      },
+      {
+        "AssetId": 101916285148900,
+        "Name": "NTTILES 1 ft. Juan Reza"
+      },
+      {
+        "AssetId": 101011979453506,
+        "Name": "RENDY DA SILVA - JEMPUT NONA"
+      },
+      {
+        "AssetId": 112199558778745,
+        "Name": "TOTON CARIBO - HITUNG HITUNG"
+      },
+      {
+        "AssetId": 132683596651209,
+        "Name": "Jacson Zeran - MATA MATA - Toton Caribo"
+      },
+      {
+        "AssetId": 87313861864208,
+        "Name": "Balik Kanan - Mario G Klau"
+      },
+      {
+        "AssetId": 116106962162171,
+        "Name": "M E M I - YOHANA KASTANEDA NONA HALONG"
+      },
+      {
+        "AssetId": 130385214624232,
+        "Name": "SELAMAT ULANG TAHUN (REMIX) - ARQ KRIBS"
+      },
+      {
+        "AssetId": 94887825247079,
+        "Name": "ANGELINA - Onar Duan RMXR × Jambra Beloaja"
+      },
+      {
+        "AssetId": 98417821492423,
+        "Name": "Juan Reza Ft Emooz Kofit & VGT Remco"
+      },
+      {
+        "AssetId": 137533509996177,
+        "Name": "FAJA SKALI - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 118660683469782,
+        "Name": "TOKI PINTU - ANGGA DERMAWAN FT ALAN DARMAWAN"
+      },
+      {
+        "AssetId": 72904748967918,
+        "Name": "BESTIE - ANGGA DERMAWAN FT TOTON CARIBO"
+      },
+      {
+        "AssetId": 70792022086426,
+        "Name": "DOLA - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 81353436414708,
+        "Name": "DUIT - ANGGA DERMAWAN"
+      },
+      {
+        "AssetId": 79819541041740,
+        "Name": "Juan Reza Ft Kapthen Purek - Mati Gaya"
+      },
+      {
+        "AssetId": 82008231679503,
+        "Name": "KapthenpureK - Kaka Gandeng"
+      },
+      {
+        "AssetId": 85382898972160,
+        "Name": "TOTON CARIBO - LAKI LAKI TIMUR"
+      },
+      {
+        "AssetId": 71453888490382,
+        "Name": "Juan Reza feat. Mendy & Niken Soge - Badansa"
+      },
+      {
+        "AssetId": 77989254270963,
+        "Name": "INNOCENTLAMS - ABU NAIK"
+      },
+      {
+        "AssetId": 104062443752473,
+        "Name": "TOTON CARIBO - AMBON MANISE FEAT NOVIA BACHMID"
+      },
+      {
+        "AssetId": 121443613899322,
+        "Name": "RENDY DA SILVA - MARI DENDANG"
+      },
+      {
+        "AssetId": 127211922227914,
+        "Name": "Juan Reza - Geleng Geleng"
+      },
+      {
+        "AssetId": 116607451552237,
+        "Name": "Nyong Timur - Gihon Marel X Jacson Zeran"
+      },
+      {
+        "AssetId": 92123422536477,
+        "Name": "Martin Hill - SERBA SALAH"
+      },
+      {
+        "AssetId": 83667987269611,
+        "Name": "Wizz Baker - Bikin Sa Gila"
+      },
+      {
+        "AssetId": 74247598483378,
+        "Name": "Wizz Baker - Nikah Kapan"
+      },
+      {
+        "AssetId": 87241817485619,
+        "Name": "TRC_WAYASE SO NAE PUADE"
+      },
+      {
+        "AssetId": 124022205741364,
+        "Name": "BRINGIN HOME - Anjani Mix"
+      },
+      {
+        "AssetId": 116259722863944,
+        "Name": "Fresly Nikijuluw TULUS DAR HATI"
+      },
+      {
+        "AssetId": 116849943890238,
+        "Name": "SU DENG TAONG - MARVEY KAYA"
+      },
+      {
+        "AssetId": 140397070631119,
+        "Name": "FARIS ADAM - BADANSA"
+      },
+      {
+        "AssetId": 118952326581206,
+        "Name": "Juan Reza - SEKA"
+      },
+      {
+        "AssetId": 117697294101689,
+        "Name": "LUKA DALAM"
+      },
+      {
+        "AssetId": 104563704217782,
+        "Name": "Hilang - Justy Aldrin"
+      },
+      {
+        "AssetId": 120151483741973,
+        "Name": "BETA SALAH APA - Fresly Nikijuluw"
+      },
+      {
+        "AssetId": 96229560575463,
+        "Name": "ANGIN – DODDIE LATUHARHARY"
+      },
+      {
+        "AssetId": 109038756405775,
+        "Name": "Beta Seng Marah - Mitha Talahatu"
+      },
+      {
+        "AssetId": 76289026101919,
+        "Name": "Sio Kenapa - Marvey Kaya"
+      },
+      {
+        "AssetId": 110097533711268,
+        "Name": "Dingin - Doddie Latuharhary"
+      },
+      {
+        "AssetId": 134823164302827,
+        "Name": "Memi Yohana Kastaneda - Nona Halong",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 113684931589835,
+        "Name": "Kelvin Fordatkossu - Nona Kairatu"
+      },
+      {
+        "AssetId": 104858973296408,
+        "Name": "RIZAL - LILIS RL"
+      },
+      {
+        "AssetId": 102568769630075,
+        "Name": "Ade Su Nikah - Izanor Alveiro"
+      },
+      {
+        "AssetId": 128557842454693,
+        "Name": "DANKE - DODDIE LATUHARHAR"
+      },
+      {
+        "AssetId": 138152277526306,
+        "Name": "Trada Dua - Adim MF Ft Jacson Zeran"
+      },
+      {
+        "AssetId": 115573935737814,
+        "Name": "Macepurba - Senyum Tipis Tipis"
+      },
+      {
+        "AssetId": 77470423513150,
+        "Name": "KAPTEN HIPHOP - PRODUK TIMUR"
+      },
+      {
+        "AssetId": 116868846580315,
+        "Name": "TOTON CARIBO - NGAPAIN REPOT"
+      },
+      {
+        "AssetId": 114430945576158,
+        "Name": "CINTA BIKIN BODO - ONA HETHARUA"
+      },
+      {
+        "AssetId": 73808841763431,
+        "Name": "Ko Cantik Tapi Sombong"
+      },
+      {
+        "AssetId": 76661809682658,
+        "Name": "Rivaldo - WASALAM Feat R.M.D x Heroiz x Ecko x Kippin Rush × eLrio"
+      },
+      {
+        "AssetId": 75779152988813,
+        "Name": "TAMANG PUNG KISAH - Fresly Nikijuluw"
+      },
+      {
+        "AssetId": 84535774716944,
+        "Name": "KAKA ANDII - AKADES"
+      },
+      {
+        "AssetId": 101370999138590,
+        "Name": "ambon manise"
+      },
+      {
+        "AssetId": 105275124730219,
+        "Name": "DJ PLAT KT - ORA URUS - IKOSAM REMAKE"
+      },
+      {
+        "AssetId": 81499687886010,
+        "Name": "DJ ORA URUS REMIX VIRAL FYP TIKTOK TERBARU 2026! Akbar Chalay"
+      },
+      {
+        "AssetId": 126143162302132,
+        "Name": "DJ SO TERLAMBAT TERBARU"
+      },
+      {
+        "AssetId": 131727071318220,
+        "Name": "DJ SIO NONA TERBARU"
+      },
+      {
+        "AssetId": 126914321755243,
+        "Name": "KO STOP TIPU - BASS GLEER"
+      },
+      {
+        "AssetId": 130086024365686,
+        "Name": "DJ KAKA, ADE MASIH SEKOLAH"
+      },
+      {
+        "AssetId": 104088886204192,
+        "Name": "Juan Reza - Nona Minang"
+      },
+      {
+        "AssetId": 83430226940192,
+        "Name": "IKAN NAE DI PANTE"
+      },
+      {
+        "AssetId": 101911305321020,
+        "Name": "KAKA MAIN SALAH X BELIS MAHAL"
+      },
+      {
+        "AssetId": 79800505111796,
+        "Name": "DJ TOBELO PART2 FUNKY NIGHT REMIXER MANADO"
+      },
+      {
+        "AssetId": 119505755990033,
+        "Name": "Dendang Minang Timur, Diva Aurel Ft Oncho"
+      },
+      {
+        "AssetId": 76274147079208,
+        "Name": "PUTAR-PUTAR - Jacson Zeran Ft. Juan Reza"
+      },
+      {
+        "AssetId": 135380535084896,
+        "Name": "DJ SA STOP MABOK"
+      },
+      {
+        "AssetId": 71401529164754,
+        "Name": "DJ KAKA PU MANIS - CURI CURI PANDANG MSLOW"
+      },
+      {
+        "AssetId": 138076099086917,
+        "Name": "DJ BETA JANJI BETA JAGA ALE UNTUK SELAMANYA | DJ JANJI PUTIH SLOW"
+      },
+      {
+        "AssetId": 98504720134484,
+        "Name": "DJ SU JAUH SA TANAM TAPI HATI TRA HASIL REMIX JJ"
+      },
+      {
+        "AssetId": 122466358308774,
+        "Name": "ubur ubur"
+      }
     ]
   },
-    "FUNGKOT": {
+  "FUNGKOT": {
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
-      { "AssetId": 100742391806003, "Name": "FUNKOT - [ CURI CURI PANDANG ]", "PlaybackSpeed": 0.5 },
-      { "AssetId": 99504551821028, "Name": "FUNKOT MUTIARA - IPANK FULL BASS VIRAL TIKTOK", "PlaybackSpeed": 0.4 },
-      { "AssetId": 82717921633638, "Name": "FUNKOT - PICA PICA [ JUAN REZA ] LAGU AMBON", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 70802842190922, "Name": "FUNKOT - PICA - PICA 2", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 110630757707578, "Name": "FUNKOT - CIINAN BANA NEW 2026 BY DJ ALMIRA BERTO", "PlaybackSpeed": 0.4 }
+      {
+        "AssetId": 100742391806003,
+        "Name": "FUNKOT - [ CURI CURI PANDANG ]",
+        "PlaybackSpeed": 0.5
+      },
+      {
+        "AssetId": 99504551821028,
+        "Name": "FUNKOT MUTIARA - IPANK FULL BASS VIRAL TIKTOK",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 82717921633638,
+        "Name": "FUNKOT - PICA PICA [ JUAN REZA ] LAGU AMBON",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 70802842190922,
+        "Name": "FUNKOT - PICA - PICA 2",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 110630757707578,
+        "Name": "FUNKOT - CIINAN BANA NEW 2026 BY DJ ALMIRA BERTO",
+        "PlaybackSpeed": 0.4
+      }
     ]
   },
   "Minang": {
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
-      { "AssetId": 100912101292537, "Name": "Dj Damonok sayang sayang den du" },
-      { "AssetId": 118776875568891, "Name": "Ginyang Mak Taci ", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 123168780768219, "Name": "SAYANG CIEK DA ", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 115372114888670, "Name": "DI GINYANG BANA", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 84388149783017, "Name": "DJoget minang muaro cinto ", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 131762496125079, "Name": "DJ Minang Ampek Kurang Tigo Balabiah", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 96148143302357, "Name": "Sopir Oto", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 103734183510237, "Name": "Buset - Bato Prent", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 74591593474390, "Name": "ULAH BABURU ~ FERA IMOET & CABIAK", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 124712421915100, "Name": "DJ BACAMIN DIRI", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 97719239916717, "Name": "Wita Sofi - Pandang Partamo", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 122335156536440, "Name": "Diva Aurel - Aia Bangih" , "PlaybackSpeed": 0.4348 },
-      { "AssetId": 96725101490870, "Name": "Wita Sofi - Bukik Bunian" , "PlaybackSpeed": 0.4348 },
-      { "AssetId": 81227677030375, "Name": "DJ DAMONOK DENAI URANG KA TIGO ", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 135951509784157, "Name": "DJ MUTIARA - IPANK" },
-      { "AssetId": 77764950519902, "Name": "CINTO JAN DIBALI - RIA AMELIA (MINANG DJ) EDM", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 117040613568019, "Name": "DJ NYAO PULANG KA BADAN - Minang_DJ", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 99282743525601, "Name": "DJ MAULANG SAYANG - RAYOLA", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 123998858354756, "Name": "SALAH APA ( IPANK ) FULL BASS" },
-      { "AssetId": 124333784903265, "Name": "Onde Uda Sayang Remix" },
-      { "AssetId": 76613237727812, "Name": "Dj Salahmu Sendiri cut rani" },
-      { "AssetId": 107607611170293, "Name": "Dj Mengapa Kau Berubah " },
-      { "AssetId": 130887489235387, "Name": "Dj perceraian Lara ipank" },
-      { "AssetId": 133583388291940, "Name": "DJ TARUMIK PARASAAN " },
-      { "AssetId": 103478960137304, "Name": "DJ FAUZANA JANJI UDA DATANG KA MAMINANG" },
-      { "AssetId": 124516700925373, "Name": "DJ JAN SAMPAI MANARUAH DANDAM " },
-      { "AssetId": 95587177209986, "Name": "GALODO KAMPUANG JO NAGARI  MINANG" },
-      { "AssetId": 104843478579411, "Name": "TURUNKAN HUJAN RAMBANG PATANG " },
-      { "AssetId": 131845476991917, "Name": "DJ DENAI KINI MARASAI NDEH MALANG DEK ULAH CINTO" },
-      { "AssetId": 86624340399780, "Name": "taragak pulang dira sati" },
-      { "AssetId": 79041619890128, "Name": "DJ Break Minang Bapindah Ka Nan Lain Paling Enak" },
-      { "AssetId": 74459902138904, "Name": "DJ SAPAYUANG KITO BADUO" },
-      { "AssetId": 88200718320637, "Name": "Dj JARAK NAN MAMISAH" },
-      { "AssetId": 111069731599014, "Name": "DJ DAMONOK BARU KASANANG HATI ALAH BASOBOK" },
-      { "AssetId": 115523153132993, "Name": "Ratok pasaman" },
-      { "AssetId": 131553089351522, "Name": "DJ DAMONOK SAMANJAK BURUANG PIPIK MANJADI ALANG" },
-      { "AssetId": 138341657520720, "Name": "DJ DENDANG MINANG KINCIA TUO SLOW FULL BASS" },
-      { "AssetId": 139283898149578, "Name": "Ratu Sikumbang - Sopir Batak" },
-      { "AssetId": 117725999624256, "Name": "DJ AYAH JO BUNDO ALAH BATANYO - BILO DATANG MAMINANG" },
-      { "AssetId": 91563558254467, "Name": "DJ TAK TON TOANG GALAMAI JAGUANG" },
-      { "AssetId": 100428657352601, "Name": "DJ DAMONOK SABALUN MASALAH BATAMBAH BAREK" },
-      { "AssetId": 113909345837106, "Name": "DJ DAMONOK - TAMBILANG TANTI BATANTI" },
-      { "AssetId": 130932361487337, "Name": "DJ DAMONOK MINANG SLOW BASS" },
-      { "AssetId": 80235452765628, "Name": "Cosell - ADA TITIK TITIK DI UJUNG DOA (SAL PRIADI)" },
-      { "AssetId": 121647745429199, "Name": "DJ TAKUIK MANJADI ANGAN" },
-      { "AssetId": 84541166372207, "Name": "DJ RANG MINANG TASABUIK NAMONYO" },
-      { "AssetId": 85795414723485, "Name": "DJ  CIINAN BANA FULL BASS" },
-      { "AssetId": 126384837470033, "Name": "DJ RINDU SAMPAI KA TULANG" },
-      { "AssetId": 118003673990117, "Name": "DJ HILANG BAGANTI BURUAK BATUKA" },
-      { "AssetId": 101513419610989, "Name": "DJ GAUN MERAH" },
-      { "AssetId": 120963162111103, "Name": "DJ JAN KAN SUREK KABA BARITO" },
-      { "AssetId": 105890338371119, "Name": "DJ DARAH TARASO BAKU" },
-      { "AssetId": 133759927049105, "Name": "DJ DEK BANSAIK MANGKO TABUANG" },
-      { "AssetId": 98504720134484, "Name": "Dj-minang - kutang barendo" },
-      { "AssetId": 86638971767996, "Name": "DJ LAH MANYURUAK TAMPAK JUO" },
-      { "AssetId": 110541633711117, "Name": "Hilang Baganti Buruak Batuka" },
-      { "AssetId": 133500065385395, "Name": "Malam Bainai Malam Malam Baiko Yo" },
-      { "AssetId": 110764000690358, "Name": "DJ VIRAL LAPIAK BURUAK PONDOK TUO" },
-      { "AssetId": 114498404926392, "Name": "DJ - BASAYANG TAPI BABAGI" },
-      { "AssetId": 107574428139405, "Name": "AYAM DEN LAPEH" },
-      { "AssetId": 113233255727050, "Name": "DJ KOK DEN TAU DARI DULU - MANYASA DENAI MANARIMO" },
-      { "AssetId": 110783460877794, "Name": "DJ TATANGIH DENAI DUDUAK DI JANJANG DJ LAH CUKUIK UMUA" },
-      { "AssetId": 81400919017561, "Name": "TUNGKEK MAMBAOK RABAH" },
-      { "AssetId": 105395734959505, "Name": "DJ BISMILLAH LINO AHERA - DJ BUGIS" }
+      {
+        "AssetId": 100912101292537,
+        "Name": "Dj Damonok sayang sayang den du"
+      },
+      {
+        "AssetId": 118776875568891,
+        "Name": "Ginyang Mak Taci ",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123168780768219,
+        "Name": "SAYANG CIEK DA ",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 115372114888670,
+        "Name": "DI GINYANG BANA",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 84388149783017,
+        "Name": "DJoget minang muaro cinto ",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 131762496125079,
+        "Name": "DJ Minang Ampek Kurang Tigo Balabiah",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 96148143302357,
+        "Name": "Sopir Oto",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 103734183510237,
+        "Name": "Buset - Bato Prent",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 74591593474390,
+        "Name": "ULAH BABURU ~ FERA IMOET & CABIAK",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 124712421915100,
+        "Name": "DJ BACAMIN DIRI",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 97719239916717,
+        "Name": "Wita Sofi - Pandang Partamo",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122335156536440,
+        "Name": "Diva Aurel - Aia Bangih",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 96725101490870,
+        "Name": "Wita Sofi - Bukik Bunian",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 81227677030375,
+        "Name": "DJ DAMONOK DENAI URANG KA TIGO ",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 135951509784157,
+        "Name": "DJ MUTIARA - IPANK"
+      },
+      {
+        "AssetId": 77764950519902,
+        "Name": "CINTO JAN DIBALI - RIA AMELIA (MINANG DJ) EDM",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 117040613568019,
+        "Name": "DJ NYAO PULANG KA BADAN - Minang_DJ",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 99282743525601,
+        "Name": "DJ MAULANG SAYANG - RAYOLA",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123998858354756,
+        "Name": "SALAH APA ( IPANK ) FULL BASS"
+      },
+      {
+        "AssetId": 124333784903265,
+        "Name": "Onde Uda Sayang Remix"
+      },
+      {
+        "AssetId": 76613237727812,
+        "Name": "Dj Salahmu Sendiri cut rani"
+      },
+      {
+        "AssetId": 107607611170293,
+        "Name": "Dj Mengapa Kau Berubah "
+      },
+      {
+        "AssetId": 130887489235387,
+        "Name": "Dj perceraian Lara ipank"
+      },
+      {
+        "AssetId": 133583388291940,
+        "Name": "DJ TARUMIK PARASAAN "
+      },
+      {
+        "AssetId": 103478960137304,
+        "Name": "DJ FAUZANA JANJI UDA DATANG KA MAMINANG"
+      },
+      {
+        "AssetId": 124516700925373,
+        "Name": "DJ JAN SAMPAI MANARUAH DANDAM "
+      },
+      {
+        "AssetId": 95587177209986,
+        "Name": "GALODO KAMPUANG JO NAGARI  MINANG"
+      },
+      {
+        "AssetId": 104843478579411,
+        "Name": "TURUNKAN HUJAN RAMBANG PATANG "
+      },
+      {
+        "AssetId": 131845476991917,
+        "Name": "DJ DENAI KINI MARASAI NDEH MALANG DEK ULAH CINTO"
+      },
+      {
+        "AssetId": 86624340399780,
+        "Name": "taragak pulang dira sati"
+      },
+      {
+        "AssetId": 79041619890128,
+        "Name": "DJ Break Minang Bapindah Ka Nan Lain Paling Enak"
+      },
+      {
+        "AssetId": 74459902138904,
+        "Name": "DJ SAPAYUANG KITO BADUO"
+      },
+      {
+        "AssetId": 88200718320637,
+        "Name": "Dj JARAK NAN MAMISAH"
+      },
+      {
+        "AssetId": 111069731599014,
+        "Name": "DJ DAMONOK BARU KASANANG HATI ALAH BASOBOK"
+      },
+      {
+        "AssetId": 115523153132993,
+        "Name": "Ratok pasaman"
+      },
+      {
+        "AssetId": 131553089351522,
+        "Name": "DJ DAMONOK SAMANJAK BURUANG PIPIK MANJADI ALANG"
+      },
+      {
+        "AssetId": 138341657520720,
+        "Name": "DJ DENDANG MINANG KINCIA TUO SLOW FULL BASS"
+      },
+      {
+        "AssetId": 139283898149578,
+        "Name": "Ratu Sikumbang - Sopir Batak"
+      },
+      {
+        "AssetId": 117725999624256,
+        "Name": "DJ AYAH JO BUNDO ALAH BATANYO - BILO DATANG MAMINANG"
+      },
+      {
+        "AssetId": 91563558254467,
+        "Name": "DJ TAK TON TOANG GALAMAI JAGUANG"
+      },
+      {
+        "AssetId": 100428657352601,
+        "Name": "DJ DAMONOK SABALUN MASALAH BATAMBAH BAREK"
+      },
+      {
+        "AssetId": 113909345837106,
+        "Name": "DJ DAMONOK - TAMBILANG TANTI BATANTI"
+      },
+      {
+        "AssetId": 130932361487337,
+        "Name": "DJ DAMONOK MINANG SLOW BASS"
+      },
+      {
+        "AssetId": 80235452765628,
+        "Name": "Cosell - ADA TITIK TITIK DI UJUNG DOA (SAL PRIADI)"
+      },
+      {
+        "AssetId": 121647745429199,
+        "Name": "DJ TAKUIK MANJADI ANGAN"
+      },
+      {
+        "AssetId": 84541166372207,
+        "Name": "DJ RANG MINANG TASABUIK NAMONYO"
+      },
+      {
+        "AssetId": 85795414723485,
+        "Name": "DJ  CIINAN BANA FULL BASS"
+      },
+      {
+        "AssetId": 126384837470033,
+        "Name": "DJ RINDU SAMPAI KA TULANG"
+      },
+      {
+        "AssetId": 118003673990117,
+        "Name": "DJ HILANG BAGANTI BURUAK BATUKA"
+      },
+      {
+        "AssetId": 101513419610989,
+        "Name": "DJ GAUN MERAH"
+      },
+      {
+        "AssetId": 120963162111103,
+        "Name": "DJ JAN KAN SUREK KABA BARITO"
+      },
+      {
+        "AssetId": 105890338371119,
+        "Name": "DJ DARAH TARASO BAKU"
+      },
+      {
+        "AssetId": 133759927049105,
+        "Name": "DJ DEK BANSAIK MANGKO TABUANG"
+      },
+      {
+        "AssetId": 98504720134484,
+        "Name": "Dj-minang - kutang barendo"
+      },
+      {
+        "AssetId": 86638971767996,
+        "Name": "DJ LAH MANYURUAK TAMPAK JUO"
+      },
+      {
+        "AssetId": 110541633711117,
+        "Name": "Hilang Baganti Buruak Batuka"
+      },
+      {
+        "AssetId": 133500065385395,
+        "Name": "Malam Bainai Malam Malam Baiko Yo"
+      },
+      {
+        "AssetId": 110764000690358,
+        "Name": "DJ VIRAL LAPIAK BURUAK PONDOK TUO"
+      },
+      {
+        "AssetId": 114498404926392,
+        "Name": "DJ - BASAYANG TAPI BABAGI"
+      },
+      {
+        "AssetId": 107574428139405,
+        "Name": "AYAM DEN LAPEH"
+      },
+      {
+        "AssetId": 113233255727050,
+        "Name": "DJ KOK DEN TAU DARI DULU - MANYASA DENAI MANARIMO"
+      },
+      {
+        "AssetId": 110783460877794,
+        "Name": "DJ TATANGIH DENAI DUDUAK DI JANJANG DJ LAH CUKUIK UMUA"
+      },
+      {
+        "AssetId": 81400919017561,
+        "Name": "TUNGKEK MAMBAOK RABAH"
+      },
+      {
+        "AssetId": 105395734959505,
+        "Name": "DJ BISMILLAH LINO AHERA - DJ BUGIS"
+      }
     ]
   },
   "REMIX": {
     "Cover": "rbxassetid://82071825011989",
     "Songs": [
-      { "AssetId": 106144162673478, "Name": "DJ naruto" },
-      { "AssetId": 71059583946104, "Name": "LAUT KIDUL || HIP DUT VERSION " },
-      { "AssetId": 106225543486602, "Name": "One piece remix aloy x ybrap" },
-      { "AssetId": 113130388617159, "Name": "Bukan WG x fahmyfay x DJ Yasmin x Joana", "PlaybackSpeed": 0.4348 },
-      { "AssetId": 81358501710750, "Name": "OBH COMBI SACHET UHUK UHUK", "PlaybackSpeed": 0.4 },
-      { "AssetId": 97289064595567, "Name": "Sesi Potret EDM", "PlaybackSpeed": 0.4 },
-      { "AssetId": 139499731462125, "Name": "BOUNCE & PA BKB", "PlaybackSpeed": 0.5 },
-      { "AssetId": 134634059308022, "Name": "Lamine Yamal ● Y QUE FUE", "PlaybackSpeed": 0.4 }
+      {
+        "AssetId": 106144162673478,
+        "Name": "DJ naruto"
+      },
+      {
+        "AssetId": 71059583946104,
+        "Name": "LAUT KIDUL || HIP DUT VERSION "
+      },
+      {
+        "AssetId": 106225543486602,
+        "Name": "One piece remix aloy x ybrap"
+      },
+      {
+        "AssetId": 113130388617159,
+        "Name": "Bukan WG x fahmyfay x DJ Yasmin x Joana",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 81358501710750,
+        "Name": "OBH COMBI SACHET UHUK UHUK",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 97289064595567,
+        "Name": "Sesi Potret EDM",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 139499731462125,
+        "Name": "BOUNCE & PA BKB",
+        "PlaybackSpeed": 0.5
+      },
+      {
+        "AssetId": 134634059308022,
+        "Name": "Lamine Yamal ● Y QUE FUE",
+        "PlaybackSpeed": 0.4
+      },
+      {
+        "AssetId": 121407583334878,
+        "Name": "Rasah Bali LAVORA Feat Ena Vika (Lirik Lagu)",
+        "PlaybackSpeed": 0.4348
+      }
     ]
   }
 }
-
