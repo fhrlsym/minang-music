@@ -246,5 +246,15 @@
   "Timur": {
     "Cover": "rbxassetid://98031817441728",
     "Songs": []
+  },
+  "VEVO": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 111391557063549,
+        "Name": "The Cranberries Zombie (Nene Royal)",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
