@@ -254,6 +254,21 @@
         "AssetId": 111391557063549,
         "Name": "The Cranberries Zombie (Nene Royal)",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 79278840935516,
+        "Name": "Bruno Mars Grenade",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 84131767616282,
+        "Name": "Justin Bieber Beauty And A Beat ft. Nic",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123022500503182,
+        "Name": "MMG (MY MINE GUEH) NAYKILLA",
+        "PlaybackSpeed": 0.4348
       }
     ]
   },
