@@ -256,5 +256,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "HIPHOP": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 137423647310911,
+        "Name": "GOYANG ENAK RYAN JUNIOR FT. REVOR STEVE",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
