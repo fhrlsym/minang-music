@@ -266,5 +266,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "INDOBOUNCE": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 109256491278731,
+        "Name": "Ever Slkr TAKUTU ft. Arsyih Idrak ( Official Mus",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
