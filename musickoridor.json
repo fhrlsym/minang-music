@@ -498,5 +498,15 @@
   "Timur": {
     "Cover": "rbxassetid://98031817441728",
     "Songs": []
+  },
+  "HIPHOP": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 128474587305569,
+        "Name": "Coffin Dance (Official Music Video HD)",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
