@@ -1,1 +1,12 @@
-
+{
+  "MASHUP": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 115266513168977,
+        "Name": "Bounce & Pa BKB Official Lyric Video",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
+  }
+}
