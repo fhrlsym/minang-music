@@ -523,5 +523,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "BREAKBEAT": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 77610279222954,
+        "Name": "DJ COCOMELON REMIX DJ TEBANG VIRAL TIKTOK 2023 JJ",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
