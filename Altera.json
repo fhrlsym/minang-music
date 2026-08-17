@@ -8,5 +8,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "PLAYLIST": {
+    "Cover": "rbxassetid://115200766195506",
+    "Songs": [
+      {
+        "AssetId": 118635689450632,
+        "Name": "Fifth Harmony Work from Home Lyrics ft. Ty Dolla $ign(256k)",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
