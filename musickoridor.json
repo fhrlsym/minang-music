@@ -596,6 +596,16 @@
         "AssetId": 112564387947853,
         "Name": "CLOSE YOUR EYES STADIUM BREAKBEAT",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 74620253854694,
+        "Name": "LOVE STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 89288059156174,
+        "Name": "A SKY FULL OF STARS STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.4348
       }
     ]
   }
