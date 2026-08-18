@@ -634,6 +634,21 @@
         "AssetId": 101100666862727,
         "Name": "Mungkin Nanti Peterpan ( Lirik Video )",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 124064670354276,
+        "Name": "Ungu Luka Disini lirik",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 131689348563783,
+        "Name": "Peterpan Ada Apa Denganmu (lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 83842913386786,
+        "Name": "Peterpan Langit Tak Mendengar (lirik)",
+        "PlaybackSpeed": 0.4348
       }
     ]
   }
