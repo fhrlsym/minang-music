@@ -536,5 +536,15 @@
         "PlaybackSpeed": 0.5
       }
     ]
+  },
+  "SLOW": {
+    "Cover": "rbxassetid://74483395632657",
+    "Songs": [
+      {
+        "AssetId": 74483395632657,
+        "Name": "It’s You Sezairi (Lirik Lagu Terjemahan)",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
