@@ -53,5 +53,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "DJ": {
+    "Cover": "rbxassetid://115200766195506",
+    "Songs": [
+      {
+        "AssetId": 79290650047966,
+        "Name": "Young, Wild Free",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
