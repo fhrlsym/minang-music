@@ -173,5 +173,30 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "HARD": {
+    "Cover": "rbxassetid://115200766195506",
+    "Songs": [
+      {
+        "AssetId": 121851259205697,
+        "Name": "STORM Round N Round",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 80771690795537,
+        "Name": "Bassjackers I Fink U Freeky",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 84909079311841,
+        "Name": "Bassjackers Party People",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 113350248287888,
+        "Name": "Bassjackers Hardcore",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
