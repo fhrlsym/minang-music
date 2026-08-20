@@ -358,5 +358,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "AFRO": {
+    "Cover": "rbxassetid://100584479519147",
+    "Songs": [
+      {
+        "AssetId": 124948337738111,
+        "Name": "HUGEL, SOLTO Jamaican (Bam Bam) (Radio Edit)",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
