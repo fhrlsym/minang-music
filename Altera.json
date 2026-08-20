@@ -346,6 +346,26 @@
         "AssetId": 123356254816744,
         "Name": "I Wanna Dance With Somebody",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 130277284455548,
+        "Name": "We Dont Talk Anymore Charlie Puth ft. Selena Gomez",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 85243667290593,
+        "Name": "Sorry Justin Bieber",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 90660151064225,
+        "Name": "A Sky Full Of Stars Coldplay",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 90178795283153,
+        "Name": "Beauty And A Beat Justin Bieber",
+        "PlaybackSpeed": 0.4348
       }
     ]
   },
