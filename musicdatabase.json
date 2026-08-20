@@ -1142,5 +1142,65 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "EVENT": {
+    "Cover": "rbxassetid://129256254218814",
+    "Songs": [
+      {
+        "AssetId": 105194655640444,
+        "Name": "Lagu event 9",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 98939068740442,
+        "Name": "lagu event 10",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 137496516459257,
+        "Name": "lagu event 12",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 125388557749510,
+        "Name": "lagu event 11",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 135054592100529,
+        "Name": "Lagu Event 2",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 79725610414335,
+        "Name": "Lagu Event 3",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 106372248817982,
+        "Name": "Lagu Event 4",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 75135207457790,
+        "Name": "Lagu Event",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 128217755506377,
+        "Name": "Lagu Event 6",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 82375099894966,
+        "Name": "Lagu Event 1",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 133194330924607,
+        "Name": "Lagu Event",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
