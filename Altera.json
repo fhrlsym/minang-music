@@ -486,6 +486,21 @@
         "AssetId": 132239767114289,
         "Name": "Icona Pop All Night",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 72890189786400,
+        "Name": "Altera 2",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 121692890786643,
+        "Name": "Altera 1",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 97498926519335,
+        "Name": "Dont Let Me Go",
+        "PlaybackSpeed": 0.4348
       }
     ]
   },
