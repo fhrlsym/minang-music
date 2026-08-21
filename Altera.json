@@ -506,6 +506,26 @@
         "AssetId": 97498926519335,
         "Name": "Dont Let Me Go",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 101184036839443,
+        "Name": "Chammak Challo",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 139569787475797,
+        "Name": "AFTERSHOCK",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 125554753951799,
+        "Name": "Black Hole",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 110231227032676,
+        "Name": "Altera 3",
+        "PlaybackSpeed": 0.4348
       }
     ]
   },
