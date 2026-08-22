@@ -786,5 +786,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "MARAPTON": {
+    "Cover": "rbxassetid://126893081698702",
+    "Songs": [
+      {
+        "AssetId": 126893081698702,
+        "Name": "dj i miss you x morena breakbeat ibot13 marapthon 3 remix by rycko ria 128 ytshorts.savetube.me",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
