@@ -1210,6 +1210,41 @@
         "AssetId": 99681160040026,
         "Name": "Lagu Event 7",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123046721872476,
+        "Name": "Tanah Airku Symphonic Hard Rock Anthem",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 94369729013328,
+        "Name": "Berkibarlah Bendera Negriku Epic Symphonic Hard Rock Cover",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123047122757433,
+        "Name": "TANAH AIRKU Javanese Gamelan x Cinematic EDM Fusion",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 74483370608318,
+        "Name": "Rayuan Pulau Kelapa Symphonic Hard Rock Anthem Cover Epic Indonesian Rock",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 102252397672149,
+        "Name": "KEBYAR KEBYAR Hard Rock Anthem Cover Epic Indonesian Rock Version",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 83886356554469,
+        "Name": "Ibu Pertiwi Symphonic Hard Rock Anthem Cover Epic Indonesian Rock Version",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 83694513176523,
+        "Name": "LAGU INDONESIA RAYA DAN PIDATO ASLI TEKS PROKLAMASI BUNG KARNO (lagu dan lirik)",
+        "PlaybackSpeed": 0.4348
       }
     ]
   }
