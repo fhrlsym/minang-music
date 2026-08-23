@@ -801,5 +801,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "INGGRIS": {
+    "Cover": "rbxassetid://93753108124258",
+    "Songs": [
+      {
+        "AssetId": 93753108124258,
+        "Name": "The Chainsmokers Closer ft. Halsey",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
