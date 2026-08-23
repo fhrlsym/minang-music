@@ -631,6 +631,11 @@
         "AssetId": 71352963521345,
         "Name": "Altera 5",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 139984255704226,
+        "Name": "Altera 18",
+        "PlaybackSpeed": 0.4348
       }
     ]
   },
