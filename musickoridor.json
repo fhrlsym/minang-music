@@ -663,5 +663,50 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "VEVO": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 115268778199273,
+        "Name": "DJ Snake ft. Justin Bieber Let Me Love You (Lyri",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 73624756638048,
+        "Name": "Jessie J Price Tag Feat. B.O.B",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 128160767486647,
+        "Name": "Akon Be With You and no one knows why",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 137244684859612,
+        "Name": "Rockabye (feat. Sean Paul & Anne Marie) Clean Ba",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 120758889527528,
+        "Name": "Rihanna Where Have You Been",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 95631431429776,
+        "Name": "Edward Maya, Vika Jigulina Stereo love (Radio Ed",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 101262628345647,
+        "Name": "Rihanna Where Have You Been",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 111265511375370,
+        "Name": "Edward Maya, Vika Jigulina Stereo love (Radio Ed",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
