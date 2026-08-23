@@ -576,6 +576,61 @@
         "AssetId": 110231227032676,
         "Name": "Altera 3",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 116495660047427,
+        "Name": "Altera 15",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71324748376217,
+        "Name": "Altera 16",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 99526324965693,
+        "Name": "Altera 14",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 136986483922868,
+        "Name": "Altera 13",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 115006276406683,
+        "Name": "Altera 11",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 113017527297497,
+        "Name": "Altera 10",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71003780656503,
+        "Name": "Altera 8",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122446955086212,
+        "Name": "Altera 9",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 130453385471755,
+        "Name": "Altera 6",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 72001535358340,
+        "Name": "Altera 4",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71352963521345,
+        "Name": "Altera 5",
+        "PlaybackSpeed": 0.4348
       }
     ]
   },
