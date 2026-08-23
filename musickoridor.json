@@ -628,5 +628,40 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "INDOBOUNCE": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 105056266642244,
+        "Name": "JEDUG JEDUG !!! Rawi Beat shine Over Me ( New",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 102223932055724,
+        "Name": "BASS BOOSTED🔥 BE ME FRMIX EDIT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 133415375421040,
+        "Name": "BASS BOOSTED🔥THE TIME FRMIX EDIT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 114810323546811,
+        "Name": "BASS BRUTAL🔥SHAKE BODY ( FRMIX EDIT )",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 134117892882434,
+        "Name": "BASS BRUTAL🔥 LOW ( FRMIX EDIT )",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 102179710351287,
+        "Name": "BASS BOOSTED🔥CHIKI PAPI FRMIX EDIT",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
