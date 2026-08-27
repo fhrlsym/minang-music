@@ -848,5 +848,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "REMIX": {
+    "Cover": "rbxassetid://98031817441728",
+    "Songs": [
+      {
+        "AssetId": 110772523410561,
+        "Name": "DJ TEH HIJAU TULUS TREND DC BRAZIL🇧🇷 TEH HIJAU",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
