@@ -158,28 +158,7 @@
         "AssetId": 74504519473806,
         "Name": "50 Cent Candy Shop ft. Ol",
         "PlaybackSpeed": 0.4348
-      }
-    ]
-  },
-  "Koplo": {
-    "Cover": "rbxassetid://98031817441728",
-    "Songs": []
-  },
-  "Fungkot": {
-    "Cover": "rbxassetid://98031817441728",
-    "Songs": []
-  },
-  "Minang": {
-    "Cover": "rbxassetid://98031817441728",
-    "Songs": []
-  },
-  "Timur": {
-    "Cover": "rbxassetid://98031817441728",
-    "Songs": []
-  },
-  "HIPHOP": {
-    "Cover": "rbxassetid://94215284059157",
-    "Songs": [
+      },
       {
         "AssetId": 128474587305569,
         "Name": "Coffin Dance (Official Music Video HD)",
@@ -855,6 +834,396 @@
       {
         "AssetId": 110772523410561,
         "Name": "DJ TEH HIJAU TULUS TREND DC BRAZIL🇧🇷 TEH HIJAU",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
+  },
+  "ORIGINAL": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 118635689450632,
+        "Name": "Fifth Harmony Work from Home Lyrics ft. Ty Dolla $ign(256k)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 135369956664521,
+        "Name": "Art Ariana Grande",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 105153094496867,
+        "Name": "Pitbull Hotel Room Service",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 111230724153841,
+        "Name": "Pitbull Give Me Everything ft. Ne Yo, Afrojack, Nayer",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 109844146852828,
+        "Name": "Vibyxi Bad Little",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 106740250474441,
+        "Name": "Jennie, Ariana Grande 2AM In Tokyo",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 107921230940823,
+        "Name": "Ariana Grande Positions",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 73414369872456,
+        "Name": "Ariana Grande 34 35",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 92258039496165,
+        "Name": "Tyga, Ariana Grande Moonlight Rush",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 111577991767655,
+        "Name": "Ariana Grande, Tyga Lambo ft. Chris Brown, Doja Cat",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 129822512784708,
+        "Name": "Ariana Grande God Is A Woman",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 120474202169419,
+        "Name": "Tyga, Jennie, Ariana Grande So Sweet",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 115318501324994,
+        "Name": "Ariana Grande Dangerous Woman",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 118604845913961,
+        "Name": "Tyga, Ariana Grande Diamonds Shine",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 135455512517528,
+        "Name": "Ariana Grande Problem ft. Iggy Azalea",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122073976389019,
+        "Name": "Ariana Grande Focus",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 113485421103206,
+        "Name": "Ariana Grande 7 Rings",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 103216752542318,
+        "Name": "Chris Brown, Ariana Grande One Chance",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 80949335460116,
+        "Name": "Ariana Grande Everyday",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 115013597117559,
+        "Name": "Nelly Dilemma ft. Kelly Rowland",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 101754799785551,
+        "Name": "Drake One Dance Stan x Schizo x Jacksound Amapiano",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 73804289926593,
+        "Name": "Lupage, Vansessy Dale Duro",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 138867690623874,
+        "Name": "Ariana Grande x Tyga All Night",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 117705124804765,
+        "Name": "Promiscuous Truth Tyla x Nelly Furtado",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 104576921489767,
+        "Name": "The Weeknd, Ariana Grande, Dua Lipa Save Your Tears",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 115772520020279,
+        "Name": "Lauv I Like Me Better",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122229434369761,
+        "Name": "We Can't Be Friends x Message In A Bottle",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 116765171180206,
+        "Name": "Kendrick Lamar, Ariana Grande, SZA Luther",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 140642834899074,
+        "Name": "Lil Nas X Industry Baby ft. Ariana Grande, Nicki Minaj",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 78432238835557,
+        "Name": "Say So x Goodnight N’ Go Ariana Grande, Doja Cat",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 70589197643040,
+        "Name": "Ariana Grande, Britney Spears Toms Diner Is Mine",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 140452545701281,
+        "Name": "The Weeknd x Sabrina Carpenter Can't Feel My Espresso",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 80711487950742,
+        "Name": "Doja Cat Like That feat. Nicki Minaj",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 138173025549508,
+        "Name": "Doja Cat Kiss Me More ft. Rihanna, Dua Lipa",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 70968315921227,
+        "Name": "Mike Posner I Took A Pill In Ibiza",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 87711067267961,
+        "Name": "Daya Good Boys",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 130626750029379,
+        "Name": "LB74 Maisha",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71966264178654,
+        "Name": "Hymn For The Weekend",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 106195893460334,
+        "Name": "ABCDEFU Gayle",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 127442114092361,
+        "Name": "Iris The Goo Goo Dolls",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 109284724979405,
+        "Name": "Now That I Got You",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122782980426567,
+        "Name": "Blame",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 124453908443210,
+        "Name": "Lush Life",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 126378903649204,
+        "Name": "Shats Bloody Samaritan",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 89967593510119,
+        "Name": "Come Closer",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 127573375523159,
+        "Name": "You'll Be My Heart",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123356254816744,
+        "Name": "I Wanna Dance With Somebody",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 130277284455548,
+        "Name": "We Dont Talk Anymore Charlie Puth ft. Selena Gomez",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 85243667290593,
+        "Name": "Sorry Justin Bieber",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 90660151064225,
+        "Name": "A Sky Full Of Stars Coldplay",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 90178795283153,
+        "Name": "Beauty And A Beat Justin Bieber",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 110494334537216,
+        "Name": "Like A Prayer Josh Fawas",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 100328177580961,
+        "Name": "Rooftop",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123306403620682,
+        "Name": "Figurinha Douglas E Vinicius",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 129647309612649,
+        "Name": "FloyyMenor Gata Only",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 126294371863085,
+        "Name": "Daya, Albi Good Boys",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 81513222672907,
+        "Name": "Alesso Heroes",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 106502167995119,
+        "Name": "Jonas Blue – Mama",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 128768908453251,
+        "Name": "DJ Snake Let Me Love You ft. Justin Bieber",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 79197664663390,
+        "Name": "Drenchill Indiiana Never Never",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 83188641658432,
+        "Name": "Sou Favela MC Bruninho, Vitinho Ferrari",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 75975389278739,
+        "Name": "Tyla Water",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 100498708306743,
+        "Name": "Aya Nakamura Copines",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 88739328303341,
+        "Name": "Katy Perry The One That Got Away",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 76305674937789,
+        "Name": "SZA Nobody Gets Me",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 114502203964587,
+        "Name": "Clean Bandit Rockabye",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71634461387545,
+        "Name": "Ride Twenty One Pilots",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 138612181753236,
+        "Name": "Sweet But Psycho Ava Max",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 104225767219472,
+        "Name": "Adele Skyfall",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 124119992917526,
+        "Name": "Calvin Harris Outside",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 92335084472053,
+        "Name": "Aaron Smith Dancin",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 86507435195431,
+        "Name": "Moves Like Jagger Maroon 5, Christina Aguilera",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 124833590158432,
+        "Name": "Sunflower Post Malone",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 96482205427632,
+        "Name": "I Got You",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 104410160207419,
+        "Name": "Trap Blues Wolves dont Wear Collars",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 81446462290867,
+        "Name": "Hustle Quavo ft. Offset",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 77272025142819,
+        "Name": "Sia Chandelier",
         "PlaybackSpeed": 0.4348
       }
     ]
