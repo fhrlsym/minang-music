@@ -1257,5 +1257,45 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "EVENT BD": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 78391135712685,
+        "Name": "EVENT MY HUMPS",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 135239298321879,
+        "Name": "EVENT NEXT LEVEL",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 114206607988067,
+        "Name": "EVENT GEME GEME",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 110103146934976,
+        "Name": "EVENT SMAHER",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 83354247633704,
+        "Name": "EVENT GET DOWN",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 75050724219267,
+        "Name": "EVENT BOOMBAH",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123918785433447,
+        "Name": "EVENT ON THE FLOOR",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
