@@ -1104,6 +1104,26 @@
         "AssetId": 102785964873927,
         "Name": "MAGIC! Rude",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 123360684332369,
+        "Name": "In the End Linkin Park",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 77040907192970,
+        "Name": "Lenka Trouble Is a Friend",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 137645161978517,
+        "Name": "David Guetta Titanium ft. Sia",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 119356161278703,
+        "Name": "Eminem Love The Way You Lie ft. Rihanna",
+        "PlaybackSpeed": 0.4348
       }
     ]
   }
