@@ -620,6 +620,16 @@
         "AssetId": 92930536966312,
         "Name": "TILL IT HURTS STADIUM BREAKBEAT",
         "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 78728754736977,
+        "Name": "HISLERIM STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 138521870173215,
+        "Name": "I NEED A DOCTOR STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.4348
       }
     ]
   },
