@@ -1136,5 +1136,35 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "SLOW 2": {
+    "Cover": "rbxassetid://91152819200919",
+    "Songs": [
+      {
+        "AssetId": 91152819200919,
+        "Name": "Last Child Pedih",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 105040429660763,
+        "Name": "Bernafas Tanpamu Last Child (lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 88996469749883,
+        "Name": "Last Child Duka",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 130927652573236,
+        "Name": "Last Child Seluruh Nafas Ini ft. Giselle (Offici",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 138347688664270,
+        "Name": "LAST CHILD Tak pernah ternilai (Lirik)",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
