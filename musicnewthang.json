@@ -28,5 +28,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "RNB": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 76612319502575,
+        "Name": "Redfoo New Thang",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
