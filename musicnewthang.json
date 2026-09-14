@@ -38,5 +38,30 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "HBRP": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 129987289120093,
+        "Name": "Lowkey Slowed Version",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 73557973583519,
+        "Name": "New Rules hbrp, KEEBO Edit",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 74841214666925,
+        "Name": "Qvenn Herby Sugar Daddy hbrp VIP Remix",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 130419088601677,
+        "Name": "VOID",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
