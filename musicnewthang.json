@@ -108,5 +108,55 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "HIPHOP": {
+    "Cover": "rbxassetid:// 83222051134414",
+    "Songs": [
+      {
+        "AssetId": 99992442733565,
+        "Name": "God's Plan Drake 🎶",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 139598326370985,
+        "Name": "Big Shaq Man's Not Hot Lyrics",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 106009145341745,
+        "Name": "Money Trees",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 75487135487380,
+        "Name": "Migos Walk It Talk It ft. Drake",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71375699179780,
+        "Name": "チーム友達 TEAM TOMODACHI (INDONESIA REMIX) 🇮🇩",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 119445970010447,
+        "Name": "Sean Kingston, Justin Bieber Eenie Meenie .mp4",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 118962969841337,
+        "Name": "Hanumankind, Kalmi Hanumankind – Big Dawgs Prod",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122479126901206,
+        "Name": "Desiigner Panda",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 88266895082219,
+        "Name": "Eminem Love The Way You Lie ft. Rihanna.mp4",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
