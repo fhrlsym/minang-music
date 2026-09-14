@@ -68,5 +68,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "TIKTOK": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 135805906865115,
+        "Name": "tik amsputro 70969.mp4",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
