@@ -476,5 +476,30 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "HIPHOP": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 119445970010447,
+        "Name": "Sean Kingston, Justin Bieber Eenie Meenie .mp4",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 118962969841337,
+        "Name": "Hanumankind, Kalmi Hanumankind – Big Dawgs Prod",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122479126901206,
+        "Name": "Desiigner Panda",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 88266895082219,
+        "Name": "Eminem Love The Way You Lie ft. Rihanna.mp4",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
