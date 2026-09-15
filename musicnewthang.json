@@ -353,5 +353,135 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "GALAU": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 103228494672605,
+        "Name": "Repvblik Tiada Guna Lagi (Lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 101990017333713,
+        "Name": "Hanya Ingin Kau Tahu Repvblik",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 102963373308079,
+        "Name": "Repvblik Sandiwara Cinta Lirik",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 87983985179030,
+        "Name": "Samsons Kenangan Terindah(lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 122686593924360,
+        "Name": "Semua Tentang Kita Peterpan 🎵",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 80401506750214,
+        "Name": "Hello Diantara bintang Lirik",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 129513805914476,
+        "Name": "Hello Dua Cincin (Lirik) 🎵",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 74186226551915,
+        "Name": "Merpati Tak Rela (Lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 139252736567693,
+        "Name": "Takkan pisah Eren (lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 72162429267333,
+        "Name": "Vagetoz Saat Kau Pergi (Lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 137361090430830,
+        "Name": "Vagetoz Betapa Aku Mencintaimu Lirik",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 137913931663875,
+        "Name": "Vagetoz Kehadiranmu Lirik",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 90428518646936,
+        "Name": "Dimana Hatimu Papinka (Lirik with English transl",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 125167988870293,
+        "Name": "Taxi Band Hujan Kemarin (Lyrics Video)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 83985310805695,
+        "Name": "Perpisahan Termanis ~ Lovarian (lyrick)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 86472627687360,
+        "Name": "Lirik Lagu “Tentang Aku Kau dan Dia” (Kangen Band)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 88109074371645,
+        "Name": "Kangen Band Pujaan Hati (Lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 119058197330017,
+        "Name": "Kangen Band Penantian Yang Tertunda (Official Vi",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 120976307046335,
+        "Name": "Kepastian Rasa",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 96186982175656,
+        "Name": "Dear God (Versi Indonesia) Avenged Sevenfold Aco",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 126242317163498,
+        "Name": "[Full Song] Dash Uciha Merindukanmu (lirik)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 106134977206316,
+        "Name": "Rasa Sakit Adista (lirik lagu)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 73784658693531,
+        "Name": "Adista Ditinggal Lagi (Lirik Video)",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 138814922596337,
+        "Name": "Adista Ku Tak Bisa",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 114607078059860,
+        "Name": "Zivilia Aishiteru 3 Off Air (Official Music Vide",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
