@@ -106,7 +106,13 @@
   },
   "RNB": {
     "Cover": "rbxassetid://98031817441728",
-    "Songs": []
+    "Songs": [
+      {
+        "AssetId": 138419165848902,
+        "Name": "Ava Max Kings & Queens",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   },
   "Amapiano": {
     "Cover": "rbxassetid://98031817441728",
