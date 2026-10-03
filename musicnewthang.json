@@ -1350,5 +1350,20 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "ORGINAL": {
+    "Cover": "rbxassetid://90191196244795",
+    "Songs": [
+      {
+        "AssetId": 76438368998068,
+        "Name": "Hindia everything u are Lirik Lagu",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 85416016108727,
+        "Name": "Flo Rida GDFR ft. Sage The Gemini and Lookas ( R!kku Edit )",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
