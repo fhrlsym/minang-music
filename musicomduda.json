@@ -1321,5 +1321,40 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "DJ INDO": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 127379015908290,
+        "Name": "DJ TANPA CINTA BREAKBEAT TERBARU 2025",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 90032063205096,
+        "Name": "DJ TAK SEGAMPANG ITU BREAKBEAT TERBARU 2025",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 124378349131482,
+        "Name": "DJ KAU TERCIPTA BUKAN UNTUKKU REMIX FULL BASS ♫ TI",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 70907375263084,
+        "Name": "DJ kenangan Terindah Breakbeat Version Full Bass 2",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 132615739464491,
+        "Name": "DJ TANPA CINTA BREAKBEAT TERBARU 2025",
+        "PlaybackSpeed": 0.4348
+      },
+      {
+        "AssetId": 71817528168884,
+        "Name": "DJ TAK SEGAMPANG ITU BREAKBEAT TERBARU 2025",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
