@@ -1381,5 +1381,15 @@
         "PlaybackSpeed": 0.4348
       }
     ]
+  },
+  "INDOBOUNCE": {
+    "Cover": "rbxassetid://94215284059157",
+    "Songs": [
+      {
+        "AssetId": 108209478958141,
+        "Name": "APA ARTINYA CINTA OSSHE 17 ( Cover ) Indobounce",
+        "PlaybackSpeed": 0.4348
+      }
+    ]
   }
 }
