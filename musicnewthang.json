@@ -3,6 +3,66 @@
     "Cover": "rbxassetid://83222051134414",
     "Songs": [
       {
+        "AssetId": 72127529699057,
+        "Name": "IS IT YOU STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 139014522854621,
+        "Name": "FOREVER STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 119465835752063,
+        "Name": "MIXTAPE SPECIAL EDITION 2 STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.204
+      },
+      {
+        "AssetId": 136432048893950,
+        "Name": "FLASHLIGHT STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 130573325892425,
+        "Name": "BREAKBEAT OLDSCHOOL FALLS",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 106571995875465,
+        "Name": "Cuma Selingkuhanmu",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 130079899263809,
+        "Name": "BREAKBEAT BAILAR THIS I VOW REMIX DJ TELOOR",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 127224445053832,
+        "Name": "ATLANTIS BREAKBEAT REMIX SOUND OF STADIUM JAKARTA",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 140408436656086,
+        "Name": "TILL IT HURTS STADIUM BREAKBEAT",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 73309672519899,
+        "Name": "DJ BOY BAND TIPE X BREAKBEAT",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 113500519181347,
+        "Name": "DJ BUKAN SEKEDAR GAYA TAPI INI REALITA",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 130968459161767,
+        "Name": "TERLENA",
+        "PlaybackSpeed": 0.794
+      },
+      {
         "AssetId": 132615165601904,
         "Name": "DJ GANTENG GANTENG SWAG YOUNG LEX SOUND GACOR BECAK",
         "PlaybackSpeed": 0.4348
@@ -840,6 +900,41 @@
     "Cover": "rbxassetid://83222051134414",
     "Songs": [
       {
+        "AssetId": 115563486082369,
+        "Name": "DJ DICARI ONTY ONTY VIRAL",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 89566741971516,
+        "Name": "RAMA KAKI PATAH X DI CARI ONTY ONTY X BABAT BABAT",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 94156940810112,
+        "Name": "DJ BECKY G SHOWER X ABANG PILIH YANG MANA",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 133017770907181,
+        "Name": "DJ NONA KAKA SAYANG",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 123352854206776,
+        "Name": "DJ AMNESIA - AL GHAZALI SLOW BASS FULL SONG VIRAL",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 82723431169905,
+        "Name": "DJ HIHUUUU I WILL BE FINE",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 102922201964121,
+        "Name": "DJ SEPI TANPA KO Voc Elga Natasya & Kkz D B",
+        "PlaybackSpeed": 0.794
+      },
+      {
         "AssetId": 135805906865115,
         "Name": "tik amsputro 70969.mp4",
         "PlaybackSpeed": 0.4348
@@ -1128,6 +1223,115 @@
         "AssetId": 83842648204660,
         "Name": "DJ PLAT KT MENDISCO SOUND IPANN YANG LAGI VIRAL DI TIKTOK 2024",
         "PlaybackSpeed": 0.4348
+      }
+    ]
+  },
+  "BASSLINE BOUNCE": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 115778386223447,
+        "Name": "MIRACLES X RIVER FLOWS IN YOU",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 73982366943880,
+        "Name": "TIPE X - DUGEM",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 133971118252608,
+        "Name": "DJ TERBELAH JADI DUA",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 124227428915752,
+        "Name": "DJ I LAY MY LOVE ON YOU",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 103411562301887,
+        "Name": "DJ Let Me To You Funkynight",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 133510031217522,
+        "Name": "DJ Sou Favela X Figurinha",
+        "PlaybackSpeed": 0.794
+      }
+    ]
+  },
+  "POP PUNK": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 97406387004255,
+        "Name": "SEVENTEEN (JKT48) Pop Punk",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 125345134789090,
+        "Name": "Disarankan Di Bandung",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 104997908735474,
+        "Name": "IQRO' - RAIM LAODE POP PUNK",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "Name": "JANGAN PAKSA RINDU POP PUNK",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 128986963495729,
+        "Name": "PUJAAN HATI POP PUNK",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 128986963495729,
+        "Name": "TULUS – Teh Hijau Punk Core",
+        "PlaybackSpeed": 0.794
+      }
+    ]
+  },
+  "Thailand Edit": {
+    "Cover": "rbxassetid://83222051134414",
+    "Songs": [
+      {
+        "AssetId": 117588128251562,
+        "Name": "DJ Bare Minimum Iphone Kupi (Thailand Edit)",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 78604836013183,
+        "Name": "Wiro (Thailand Edit)",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 115979352999438,
+        "Name": "DJ Pa Ko Di (Thailand Edit)",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 104559872516559,
+        "Name": "Encho DC ft. Jesen Dai - China Timur (Thailand Edit)",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 100097114207100,
+        "Name": "Manda Cello “Gak Pake Lama”   (Thailand Edit)",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 105460009330211,
+        "Name": "Armada “Pulang Malu Tak Pulang Rindu” (Thailand Edit)",
+        "PlaybackSpeed": 0.794
+      },
+      {
+        "AssetId": 95632295551018,
+        "Name": "T2 “OK” (Thailand Edit)",
+        "PlaybackSpeed": 0.794
       }
     ]
   }
